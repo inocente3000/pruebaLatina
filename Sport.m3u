@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
+
 #EXTINF:-1,Orange Sport 1 HD
 http://5.14.125.198:25463/play/a051/index.m3u8
 #EXTINF:-1,PRIMA SPORT 1 HD
