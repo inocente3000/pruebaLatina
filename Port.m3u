@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
+
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2 HD
 http://topstb.com:8000/50656250782258/27115840859269/199202
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Band Sports FHD
