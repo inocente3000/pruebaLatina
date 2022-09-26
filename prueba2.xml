@@ -1,0 +1,802 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Baby First (BABY)">
+    <display-name lang="en">Baby First (BABY)</display-name>
+    <display-name>Baby First</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Canal Boomerang (Panregional)">
+    <display-name lang="es">Canal Boomerang (Panregional)</display-name>
+    <display-name>Boomerang</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cartoon Network (Pacífico)">
+    <display-name lang="es">Canal Cartoon Network (Pacífico)</display-name>
+    <display-name>CARTOON NT HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery Kids (Latinoamérica)">
+    <display-name lang="es">Canal Discovery Kids (Latinoamérica)</display-name>
+    <display-name>Discovery Kids</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Disney Channel">
+    <display-name lang="es">Canal Disney Channel</display-name>
+    <display-name>Disney</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20220926000300 -0500" stop="20220926001600 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Las aventuras de Papelucho</title>
+  </programme>
+  <programme start="20220926001600 -0500" stop="20220926002700 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Las aventuras de Papelucho</title>
+  </programme>
+  <programme start="20220926002700 -0500" stop="20220926004300 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Unikitty</title>
+  </programme>
+  <programme start="20220926004300 -0500" stop="20220926005400 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Unikitty</title>
+  </programme>
+  <programme start="20220926005400 -0500" stop="20220926010400 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926010400 -0500" stop="20220926012000 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926012000 -0500" stop="20220926013100 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926013100 -0500" stop="20220926013800 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Any Malu Backstage</title>
+  </programme>
+  <programme start="20220926013800 -0500" stop="20220926014900 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926014900 -0500" stop="20220926020500 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926020500 -0500" stop="20220926034000 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Cloudy With a Chance of Meatballs 2</title>
+  </programme>
+  <programme start="20220926034000 -0500" stop="20220926035100 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20220926035100 -0500" stop="20220926040400 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20220926040400 -0500" stop="20220926041800 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926041800 -0500" stop="20220926042900 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926042900 -0500" stop="20220926044500 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20220926044500 -0500" stop="20220926045600 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20220926045600 -0500" stop="20220926050700 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Unikitty</title>
+  </programme>
+  <programme start="20220926050700 -0500" stop="20220926052300 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Unikitty</title>
+  </programme>
+  <programme start="20220926052300 -0500" stop="20220926053400 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Unikitty</title>
+  </programme>
+  <programme start="20220926053400 -0500" stop="20220926054800 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Unikitty</title>
+  </programme>
+  <programme start="20220926054800 -0500" stop="20220926055900 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Unikitty</title>
+  </programme>
+  <programme start="20220926055900 -0500" stop="20220926061000 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20220926061000 -0500" stop="20220926062600 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20220926062600 -0500" stop="20220926063700 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20220926063700 -0500" stop="20220926065100 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20220926065100 -0500" stop="20220926070200 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20220926070200 -0500" stop="20220926071300 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926071300 -0500" stop="20220926072700 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926072700 -0500" stop="20220926073800 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926073800 -0500" stop="20220926075000 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926075000 -0500" stop="20220926080100 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926080100 -0500" stop="20220926081500 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Steven universe</title>
+  </programme>
+  <programme start="20220926081500 -0500" stop="20220926082700 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Steven universe</title>
+  </programme>
+  <programme start="20220926082700 -0500" stop="20220926083900 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Steven universe</title>
+  </programme>
+  <programme start="20220926083900 -0500" stop="20220926085100 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Steven universe</title>
+  </programme>
+  <programme start="20220926085100 -0500" stop="20220926090200 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Steven universe</title>
+  </programme>
+  <programme start="20220926090200 -0500" stop="20220926091400 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20220926091400 -0500" stop="20220926092900 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20220926092900 -0500" stop="20220926094000 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20220926094000 -0500" stop="20220926094500 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Any Malu Backstage</title>
+  </programme>
+  <programme start="20220926094500 -0500" stop="20220926095700 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20220926095700 -0500" stop="20220926100900 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20220926100900 -0500" stop="20220926102300 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20220926102300 -0500" stop="20220926103400 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20220926103400 -0500" stop="20220926103600 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Guau</title>
+  </programme>
+  <programme start="20220926103600 -0500" stop="20220926104800 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20220926104800 -0500" stop="20220926110000 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20220926110000 -0500" stop="20220926111200 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20220926111200 -0500" stop="20220926112300 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20220926112300 -0500" stop="20220926113400 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20220926113400 -0500" stop="20220926114500 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926114500 -0500" stop="20220926115900 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926115900 -0500" stop="20220926121300 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926121300 -0500" stop="20220926122300 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926122300 -0500" stop="20220926123500 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20220926123500 -0500" stop="20220926125100 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20220926125100 -0500" stop="20220926130300 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20220926130300 -0500" stop="20220926131800 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20220926131800 -0500" stop="20220926132900 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20220926132900 -0500" stop="20220926134000 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Drama total la guardería</title>
+  </programme>
+  <programme start="20220926134000 -0500" stop="20220926135600 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Drama total la guardería</title>
+  </programme>
+  <programme start="20220926135600 -0500" stop="20220926140600 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Drama total la guardería</title>
+  </programme>
+  <programme start="20220926140600 -0500" stop="20220926142000 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Drama total la guardería</title>
+  </programme>
+  <programme start="20220926142000 -0500" stop="20220926143100 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Drama total la guardería</title>
+  </programme>
+  <programme start="20220926143100 -0500" stop="20220926145800 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Barbie It Takes Two</title>
+  </programme>
+  <programme start="20220926145800 -0500" stop="20220926151300 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20220926151300 -0500" stop="20220926152400 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20220926152400 -0500" stop="20220926153600 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20220926153600 -0500" stop="20220926155300 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20220926155300 -0500" stop="20220926160500 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20220926160500 -0500" stop="20220926162000 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Miau</title>
+  </programme>
+  <programme start="20220926162000 -0500" stop="20220926165000 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Tom y Jerry en Nueva York</title>
+  </programme>
+  <programme start="20220926165000 -0500" stop="20220926170100 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Drama total la guardería</title>
+  </programme>
+  <programme start="20220926170100 -0500" stop="20220926170300 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Miau</title>
+  </programme>
+  <programme start="20220926170300 -0500" stop="20220926171900 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926171900 -0500" stop="20220926173000 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926173000 -0500" stop="20220926174400 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926174400 -0500" stop="20220926175600 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926175600 -0500" stop="20220926180700 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20220926180700 -0500" stop="20220926182200 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20220926182200 -0500" stop="20220926183300 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20220926183300 -0500" stop="20220926185000 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Escandalositos</title>
+  </programme>
+  <programme start="20220926185000 -0500" stop="20220926190200 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Escandalositos</title>
+  </programme>
+  <programme start="20220926190200 -0500" stop="20220926191700 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20220926191700 -0500" stop="20220926192900 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20220926192900 -0500" stop="20220926194000 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Drama total la guardería</title>
+  </programme>
+  <programme start="20220926194000 -0500" stop="20220926195600 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Drama total la guardería</title>
+  </programme>
+  <programme start="20220926195600 -0500" stop="20220926200700 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Drama total la guardería</title>
+  </programme>
+  <programme start="20220926200700 -0500" stop="20220926202200 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Drama total la guardería</title>
+  </programme>
+  <programme start="20220926202200 -0500" stop="20220926203300 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Drama total la guardería</title>
+  </programme>
+  <programme start="20220926203300 -0500" stop="20220926205000 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20220926205000 -0500" stop="20220926210100 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20220926210100 -0500" stop="20220926211700 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20220926211700 -0500" stop="20220926212900 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20220926212900 -0500" stop="20220926213900 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926213900 -0500" stop="20220926215800 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926215800 -0500" stop="20220926220900 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926220900 -0500" stop="20220926221700 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Any Malu Backstage</title>
+  </programme>
+  <programme start="20220926221700 -0500" stop="20220926222800 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926222800 -0500" stop="20220926224500 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20220926224500 -0500" stop="20220926225200 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Lamput</title>
+  </programme>
+  <programme start="20220926225200 -0500" stop="20220926230400 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20220926230400 -0500" stop="20220926232200 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20220926232200 -0500" stop="20220926233400 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20220926233400 -0500" stop="20220926234500 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20220926234500 -0500" stop="20220926235700 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20220926235700 -0500" stop="20220927001100 -0500" channel="Canal Cartoon Network (Pacífico)">
+    <title lang="es">Escandalositos</title>
+  </programme>
+  <programme start="20220926000500 -0500" stop="20220926001700 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Primaria de héroes</title>
+  </programme>
+  <programme start="20220926001700 -0500" stop="20220926003300 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Primaria de héroes</title>
+  </programme>
+  <programme start="20220926003300 -0500" stop="20220926004400 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">El mundo de Luna</title>
+  </programme>
+  <programme start="20220926004400 -0500" stop="20220926011000 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Frankie y los Zhu Zhu Pets</title>
+  </programme>
+  <programme start="20220926011000 -0500" stop="20220926013600 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20220926013600 -0500" stop="20220926020200 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20220926020200 -0500" stop="20220926020700 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926020700 -0500" stop="20220926021200 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926021200 -0500" stop="20220926021600 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926021600 -0500" stop="20220926022400 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926022400 -0500" stop="20220926022900 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926022900 -0500" stop="20220926023900 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20220926023900 -0500" stop="20220926025500 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">44 gatos</title>
+  </programme>
+  <programme start="20220926025500 -0500" stop="20220926030700 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">44 gatos</title>
+  </programme>
+  <programme start="20220926030700 -0500" stop="20220926032300 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">44 gatos</title>
+  </programme>
+  <programme start="20220926032300 -0500" stop="20220926033500 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">44 gatos</title>
+  </programme>
+  <programme start="20220926033500 -0500" stop="20220926040200 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20220926040200 -0500" stop="20220926041300 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">¡Presto! Escuela de magia</title>
+  </programme>
+  <programme start="20220926041300 -0500" stop="20220926042700 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">¡Presto! Escuela de magia</title>
+  </programme>
+  <programme start="20220926042700 -0500" stop="20220926043800 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20220926043800 -0500" stop="20220926045400 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20220926045400 -0500" stop="20220926051900 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">100% Lobo La leyenda del anillo lunar</title>
+  </programme>
+  <programme start="20220926051900 -0500" stop="20220926053000 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20220926053000 -0500" stop="20220926054500 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20220926054500 -0500" stop="20220926055500 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20220926055500 -0500" stop="20220926060000 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20220926060000 -0500" stop="20220926062700 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20220926062700 -0500" stop="20220926063400 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mi perro Pat</title>
+  </programme>
+  <programme start="20220926063400 -0500" stop="20220926064500 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mi perro Pat</title>
+  </programme>
+  <programme start="20220926064500 -0500" stop="20220926065200 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mi perro Pat</title>
+  </programme>
+  <programme start="20220926065200 -0500" stop="20220926065700 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20220926065700 -0500" stop="20220926070800 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20220926070800 -0500" stop="20220926072200 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20220926072200 -0500" stop="20220926073400 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Primaria de héroes</title>
+  </programme>
+  <programme start="20220926073400 -0500" stop="20220926074600 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Primaria de héroes</title>
+  </programme>
+  <programme start="20220926074600 -0500" stop="20220926075700 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20220926075700 -0500" stop="20220926080900 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20220926080900 -0500" stop="20220926081000 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Las aventuras de Dog y Pony</title>
+  </programme>
+  <programme start="20220926081000 -0500" stop="20220926082100 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Ba da Bean</title>
+  </programme>
+  <programme start="20220926082100 -0500" stop="20220926083600 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Ba da Bean</title>
+  </programme>
+  <programme start="20220926083600 -0500" stop="20220926085800 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">100% Lobo La leyenda del anillo lunar</title>
+  </programme>
+  <programme start="20220926085800 -0500" stop="20220926090900 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Las aventuras de los Boonie Bears</title>
+  </programme>
+  <programme start="20220926090900 -0500" stop="20220926092000 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Las aventuras de los Boonie Bears</title>
+  </programme>
+  <programme start="20220926092000 -0500" stop="20220926093100 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Las aventuras de los Boonie Bears</title>
+  </programme>
+  <programme start="20220926093100 -0500" stop="20220926095400 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20220926095400 -0500" stop="20220926101700 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20220926101700 -0500" stop="20220926102200 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926102200 -0500" stop="20220926102700 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926102700 -0500" stop="20220926103200 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926103200 -0500" stop="20220926103600 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926103600 -0500" stop="20220926104100 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926104100 -0500" stop="20220926104600 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926104600 -0500" stop="20220926110800 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">¡Agente Binky al rescate</title>
+  </programme>
+  <programme start="20220926110800 -0500" stop="20220926113000 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">¡Agente Binky al rescate</title>
+  </programme>
+  <programme start="20220926113000 -0500" stop="20220926114100 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Polly Pocket</title>
+  </programme>
+  <programme start="20220926114100 -0500" stop="20220926115200 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Polly Pocket</title>
+  </programme>
+  <programme start="20220926115200 -0500" stop="20220926120300 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Kung Fu Wa</title>
+  </programme>
+  <programme start="20220926120300 -0500" stop="20220926121400 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Kung Fu Wa</title>
+  </programme>
+  <programme start="20220926121400 -0500" stop="20220926123700 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20220926123700 -0500" stop="20220926130000 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20220926130000 -0500" stop="20220926132500 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20220926132500 -0500" stop="20220926135100 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20220926135100 -0500" stop="20220926140200 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20220926140200 -0500" stop="20220926141400 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20220926141400 -0500" stop="20220926142800 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20220926142800 -0500" stop="20220926144000 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">¡Agente Binky al rescate</title>
+  </programme>
+  <programme start="20220926144000 -0500" stop="20220926145400 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">¡Agente Binky al rescate</title>
+  </programme>
+  <programme start="20220926145400 -0500" stop="20220926150600 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">¡Agente Binky al rescate</title>
+  </programme>
+  <programme start="20220926150600 -0500" stop="20220926152100 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Primaria de héroes</title>
+  </programme>
+  <programme start="20220926152100 -0500" stop="20220926153200 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20220926153200 -0500" stop="20220926154400 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Campamento S.M.A.S.H</title>
+  </programme>
+  <programme start="20220926154400 -0500" stop="20220926155700 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Campamento S.M.A.S.H</title>
+  </programme>
+  <programme start="20220926155700 -0500" stop="20220926160900 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">44 gatos</title>
+  </programme>
+  <programme start="20220926160900 -0500" stop="20220926162100 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">44 gatos</title>
+  </programme>
+  <programme start="20220926162100 -0500" stop="20220926163300 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">44 gatos</title>
+  </programme>
+  <programme start="20220926163300 -0500" stop="20220926164500 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">44 gatos</title>
+  </programme>
+  <programme start="20220926164500 -0500" stop="20220926165700 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">44 gatos</title>
+  </programme>
+  <programme start="20220926165700 -0500" stop="20220926170900 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">44 gatos</title>
+  </programme>
+  <programme start="20220926170900 -0500" stop="20220926172100 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">44 gatos</title>
+  </programme>
+  <programme start="20220926172100 -0500" stop="20220926172600 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926172600 -0500" stop="20220926173700 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Topo Gigio</title>
+  </programme>
+  <programme start="20220926173700 -0500" stop="20220926174700 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Héroes en la playa</title>
+  </programme>
+  <programme start="20220926174700 -0500" stop="20220926175900 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Pinocho y sus amigos</title>
+  </programme>
+  <programme start="20220926175900 -0500" stop="20220926182500 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20220926182500 -0500" stop="20220926183600 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Kung Fu Wa</title>
+  </programme>
+  <programme start="20220926183600 -0500" stop="20220926190200 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20220926190200 -0500" stop="20220926191300 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Underdogs United</title>
+  </programme>
+  <programme start="20220926191300 -0500" stop="20220926192800 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Underdogs United</title>
+  </programme>
+  <programme start="20220926192800 -0500" stop="20220926194000 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">GhostForce</title>
+  </programme>
+  <programme start="20220926194000 -0500" stop="20220926195400 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Polly Pocket</title>
+  </programme>
+  <programme start="20220926195400 -0500" stop="20220926200600 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Pinocho en la villa encantada</title>
+  </programme>
+  <programme start="20220926200600 -0500" stop="20220926201100 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926201100 -0500" stop="20220926201600 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926201600 -0500" stop="20220926202100 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926202100 -0500" stop="20220926203200 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Los Beachbuds</title>
+  </programme>
+  <programme start="20220926203200 -0500" stop="20220926204800 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Primaria de héroes</title>
+  </programme>
+  <programme start="20220926204800 -0500" stop="20220926205900 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Primaria de héroes</title>
+  </programme>
+  <programme start="20220926205900 -0500" stop="20220926211000 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Ba da Bean</title>
+  </programme>
+  <programme start="20220926211000 -0500" stop="20220926212600 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20220926212600 -0500" stop="20220926213700 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">¡Presto! Escuela de magia</title>
+  </programme>
+  <programme start="20220926213700 -0500" stop="20220926220200 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">100% Lobo La leyenda del anillo lunar</title>
+  </programme>
+  <programme start="20220926220200 -0500" stop="20220926221300 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Kung Fu Wa</title>
+  </programme>
+  <programme start="20220926221300 -0500" stop="20220926222400 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">FriendZspace</title>
+  </programme>
+  <programme start="20220926222400 -0500" stop="20220926223500 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Campamento S.M.A.S.H</title>
+  </programme>
+  <programme start="20220926223500 -0500" stop="20220926230200 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20220926230200 -0500" stop="20220926233000 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20220926233000 -0500" stop="20220926233500 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926233500 -0500" stop="20220926233900 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926233900 -0500" stop="20220926234400 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926234400 -0500" stop="20220926234900 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926234900 -0500" stop="20220926235800 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926235800 -0500" stop="20220927000200 -0500" channel="Canal Discovery Kids (Latinoamérica)">
+    <title lang="es">Mini beat power rockers</title>
+  </programme>
+  <programme start="20220926003000 -0500" stop="20220926010000 -0500" channel="Canal Disney Channel">
+    <title lang="es">El salón de los villanos</title>
+  </programme>
+  <programme start="20220926010000 -0500" stop="20220926030000 -0500" channel="Canal Disney Channel">
+    <title lang="es">La fabulosa aventura de Sharp</title>
+  </programme>
+  <programme start="20220926030000 -0500" stop="20220926044500 -0500" channel="Canal Disney Channel">
+    <title lang="es">Matilda</title>
+  </programme>
+  <programme start="20220926044500 -0500" stop="20220926063000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Halloweentown 2 La venganza</title>
+  </programme>
+  <programme start="20220926063000 -0500" stop="20220926070000 -0500" channel="Canal Disney Channel">
+    <title lang="es">El salón de los villanos</title>
+  </programme>
+  <programme start="20220926070000 -0500" stop="20220926073000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20220926073000 -0500" stop="20220926080000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20220926080000 -0500" stop="20220926083000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20220926083000 -0500" stop="20220926090000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+  <programme start="20220926090000 -0500" stop="20220926093000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20220926093000 -0500" stop="20220926100000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Los Hechiceros de Waverly Pla</title>
+  </programme>
+  <programme start="20220926100000 -0500" stop="20220926103000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20220926103000 -0500" stop="20220926110000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20220926110000 -0500" stop="20220926113000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Grandes Héroes: La Serie</title>
+  </programme>
+  <programme start="20220926113000 -0500" stop="20220926120000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20220926120000 -0500" stop="20220926123000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20220926123000 -0500" stop="20220926130000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20220926130000 -0500" stop="20220926133000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Miraculous Las aventuras de L</title>
+  </programme>
+  <programme start="20220926133000 -0500" stop="20220926140000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20220926140000 -0500" stop="20220926143000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20220926143000 -0500" stop="20220926144500 -0500" channel="Canal Disney Channel">
+    <title lang="es">Las Aventuras de Pilar</title>
+  </programme>
+  <programme start="20220926144500 -0500" stop="20220926150000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Mickey Mouse</title>
+  </programme>
+  <programme start="20220926150000 -0500" stop="20220926153000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Patoaventuras</title>
+  </programme>
+  <programme start="20220926153000 -0500" stop="20220926154500 -0500" channel="Canal Disney Channel">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20220926154500 -0500" stop="20220926160000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20220926160000 -0500" stop="20220926163000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Amphibia</title>
+  </programme>
+  <programme start="20220926163000 -0500" stop="20220926170000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Grandes Héroes: La Serie</title>
+  </programme>
+  <programme start="20220926170000 -0500" stop="20220926171500 -0500" channel="Canal Disney Channel">
+    <title lang="es">The Ghost and Molly McGee</title>
+  </programme>
+  <programme start="20220926171500 -0500" stop="20220926180000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20220926180000 -0500" stop="20220926200000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Swap el cambio</title>
+  </programme>
+  <programme start="20220926200000 -0500" stop="20220926203000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Liv y Maddie</title>
+  </programme>
+  <programme start="20220926203000 -0500" stop="20220926210000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Programa de Talentos</title>
+  </programme>
+  <programme start="20220926210000 -0500" stop="20220926213000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Los Hechiceros de Waverly Pla</title>
+  </programme>
+  <programme start="20220926213000 -0500" stop="20220926220000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Es tan Raven</title>
+  </programme>
+  <programme start="20220926220000 -0500" stop="20220926223000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20220926223000 -0500" stop="20220926230000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20220926230000 -0500" stop="20220926233000 -0500" channel="Canal Disney Channel">
+    <title lang="es">La casa de Raven</title>
+  </programme>
+  <programme start="20220926233000 -0500" stop="20220927000000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+</tv>
