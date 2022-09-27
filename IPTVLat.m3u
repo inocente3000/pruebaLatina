@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 21 - 252 ComedyC
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Canal Comedy Central (México)
 http://190.61.102.67:31589/play/a04a/index.m3u8
-#EXTINF:-1 group-title="KIDS", 23 - 290 CartoonNetwork
+#EXTINF:-1 group-title="KIDS", Canal Cartoon Network (México)
 http://190.61.102.67:31589/play/a03k/index.m3u8
-#EXTINF:-1 group-title="KIDS", 25-292 Discovery kids
+#EXTINF:-1 group-title="KIDS", Canal Discovery Kids (México)
 http://190.61.102.67:31589/play/a015/index.m3u8
 #EXTINF:-1 group-title="KIDS", 27-286 NICKELODEON
 http://190.61.102.67:31589/play/a014/index.m3u8
