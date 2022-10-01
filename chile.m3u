@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml.gz",https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml.gz
-#EXTINF:-1,tvg-id="24Horas.cl" tvg-name="24 Horas" tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png"
+#EXTINF:-1,tvg-id="24Horas.cl" tvg-name="24 Horas" tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png",24Horas.cl
 http://201.222.45.69:8000/play/a00m/index.m3u8
 #EXTINF:-1,tvg-id="AEChile.cl" tvg-name="AEChile.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png"
 http://201.222.45.69:8000/play/a02q/index.m3u8
