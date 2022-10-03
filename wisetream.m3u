@@ -29,45 +29,45 @@
             },
             {
                 "name": "Movistar la liga 2",
-                "image": "https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_2.png",
+                "image": "",
                 "url": "http://minafire.com:25461/live/OiHe4gZ5Dx/slpnifDAlL/58.m3u8",
                 "embed": true
             },
             {
                 "name": "Movistar la liga 3",
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT40tq3Ao2yQxqdUzOUQ3OMKtB5-kYNZlL8aA1V2sMHOpur5C0JSbpj__616pDAU-bhdNIu7IoCGSQJkuxeYpTqUt5CYZ-6azjJB383x00&usqp=CAU&ec=45725305",
+                "image": "",
                 "url": "https://adictosaldeporte.com/TV/deportes/laliga3/",
                 "embed": true
             },
             {
                 "name": "La Liga Bar",
-                "image": "https://www.andorratelecom.com/at/llistat-canals/canals/208-laliga-tv-bar.png",
+                "image": "",
                 "url": "https://adictosaldeporte.com/TV/deportes/laliga/bar.php",
                 "embed": true
             },
             {
                 "name": "ESPN 1 Arg",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/270px-ESPN_wordmark.svg.png",
+                "image": "",
                 "url": "https://adictosaldeporte.com/TV/deportes/espn1ar/",
                 "embed": true
             },
             {
                 "name": "ESPN 2 Arg",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/263px-Espn2.svg.png",
+                "image": "",
                 "url": "https://adictosaldeporte.com/TV/deportes/espn2ar/",
                 "embed": true
             },
             
             {
                 "name": "ESPN 3 Arg",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ESPN_3.png/270px-ESPN_3.png",
+                "image": "",
                 "url": "https://adictosaldeporte.com/TV/deportes/espn3ar/",
                 "embed": true
                 
             },
 	    {
                 "name": "DIRECTV",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Logo_DirecTV_marzo_de_2018.jpg/368px-Logo_DirecTV_marzo_de_2018.jpg",
+                "image": "",
                 "url": "https://adictosaldeporte.com/TV/deportes/directv-sports/",
                 "embed": true
                 
@@ -75,7 +75,7 @@
             
             {
                 "name": "DIRECTV 2",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/263px-DirecTV_Sports_2_Latin_America_%282018%29.png",
+                "image": "",
                 "url": "https://adictosaldeporte.com/TV/deportes/directv-sports2/",
                 "embed": true
                 
@@ -220,7 +220,7 @@
         },
         {
         "name": "Fútbol Elite Gol",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XxG7vnYSiiOF5od071GQvTTlS0fQv_fjMQ&usqp=CAU",
+        "image": "",
         "stations":[
             
             {
