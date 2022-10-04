@@ -1,786 +1,219 @@
 {
-    "name":"WISETREAM",
-    "author": "Pau",
-    "image": "https://www.clipartmax.com/png/full/26-261493_sundown-helmet-from-movie-top-gun-top-gun-iceman-helmet.png",
-    "url":"https://raw.githubusercontent.com/inocente3000/pruebaLatina/main/wisetream.m3u",
+    "name": "TV DIRECTO en Español",
+    "author": "Para mi madre",
+    "image": "https://image.flaticon.com/icons/png/512/1032/1032818.png",
+    "info": "Enlaces para ver canales de TDT",
+    "url": "http://w3ubin.com/BJ9BH3mOE.w3u",
     "groups": [
         {
-        "name": "Deportes",
-        "image": "https://www.kindpng.com/picc/m/349-3496088_deportes-los-pies-bola-jugador-persona-ftbol-bola.png",
-        "stations":[
-            
-            {
-                "name": "Dazn Liga 1080 MultiAudio",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png",
-                "url": "acestream://df98650743f24a245c44cdf2851e57078f4c487a",
-                "embed": true
-            },
-             {
-                "name": "Dazn Liga test 1080 Multi",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png",
-                "url": "acestream://c72263175266c90d376dcb8607c28e02939c1873",
-                "embed": true
-            },
-            {
-                "name": "Dazn Liga 720",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png",
-                "url": "acestream://c35d2207792128fc0ae49c40e885c463f664dbce",
-                "embed": true
-            },
-            {
-"name": ”# Vamos 1080“
-"image": “”
-"url": "acestream://”069431a1199eb2545a14c0a724095e57bdc58e9c“
-"embed": true“
-},
-{
-"name": ”# Vamos 720“
-"image": “”
-"url": "acestream://”0e18315b703248bb01eab6b9d3f0cb2cd893601f“
-"embed": true“
-},
-{
-"name": ”M. Deportes 1080“
-"image": “”
-"url": "acestream://”49acacbbbcf33be6e843958ceedc7da8dd4f1486“
-"embed": true“
-},
-{
-"name": ”M. Deportes 720“
-"image": “”
-"url": "acestream://”e5fa927d9a017f4523fdb62774a0aec457985bfa“
-"embed": true“
-},
-{
-"name": ”M. Deportes 21080“
-"image": “”
-"url": "acestream://”c47f756750190e4b2a9eefe8afdac48a2203b8d6“
-"embed": true“
-},
-{
-"name": ”M. Deportes 3 1080“
-"image": “”
-"url": "acestream://”85bd65161dfd8c4033194da3c978c0450c9111db“
-"embed": true“
-},
-{
-"name": ”M. Deportes 4 1080“
-"image": “”
-"url": "acestream://”0c8935087510ee1c5117243a6cc46f9d6d795faf“
-"embed": true“
-},
-{
-"name": ”M. Deportes 5 1080“
-"image": “”
-"url": "acestream://”478833f6390f04e95c6d94180a784b78ad540d2f“
-"embed": true“
-},
-{
-"name": ”M. Deportes 7 1080“
-"image": “”
-"url": "acestream://”5da3c25c14d111cb9c33cf6e0b45b7cab88fe741“
-"embed": true“
-},
-{
-"name": ”M. Deportes 8 SD“
-"image": “”
-"url": "acestream://”b779e6056975e3682a804d47cbd5cc806217f64d“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 1080 MultiAudio“
-"image": “”
-"url": "acestream://”aedf221240a0f8513d90b555bf1b6e5306ac1e76“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 1080 “
-"image": “”
-"url": "acestream://”539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b “
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 720“
-"image": “”
-"url": "acestream://”f8d89bf80b813631e6eb85fc8c185b00fe9ab88d“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 2 1080“
-"image": “”
-"url": "acestream://”9b76d0739f87555ccd3f42fc8e548762a0b94c28“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 2 720“
-"image": “”
-"url": "acestream://”04b36c831975b5514b63d6aaa97962bc2a495dd3“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 3 1080“
-"image": “”
-"url": "acestream://”f2b785193cfa99c581287be39e2fb5a73827957b“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 3 720“
-"image": “”
-"url": "acestream://”f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 4 SD“
-"image": “”
-"url": "acestream://”8a9018cccaa36014ab0f050e5132d5ee264f7737“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 5 SD“
-"image": “”
-"url": "acestream://”662cceb5a2b23f2150172df24247fa220d8d95d4“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 6 SD“
-"image": “”
-"url": "acestream://”a2e878fbab5dff0e2cda01e74a88c7b32eb67913“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 7 SD“
-"image": “”
-"url": "acestream://”8ab70e161ad1d9a3ed76db91b84b2ae55e16103f“
-"embed": true“
-},
-{
-"name": ”Campeones8“
-"image": “”
-"url": "acestream://”fdd9e3660059051660dbd7857443c2b807f258d0“
-"embed": true“
-},
-{
-"name": ”Campeones9“
-"image": “”
-"url": "acestream://”69c95dc47b35dde559a6ef025c1b91c89646a17f“
-"embed": true“
-},
-{
-"name": ”Campeones10“
-"image": “”
-"url": "acestream://”df67afe5c5f5e82a3ae629d126727b006b65e676“
-"embed": true“
-},
-{
-"name": ”Campeones11“
-"image": “”
-"url": "acestream://”57e284a3c13100baeff7a88dc50949585c9f1277“
-"embed": true“
-},
-{
-"name": ”Campeones12“
-"image": “”
-"url": "acestream://”33369549c635dabdb78b95c478c21fcc9e4ee854“
-"embed": true“
-},
-{
-"name": ”# Vamos 1080“
-"image": “”
-"url": "acestream://”069431a1199eb2545a14c0a724095e57bdc58e9c“
-"embed": true“
-},
-{
-"name": ”# Vamos 720“
-"image": “”
-"url": "acestream://”0e18315b703248bb01eab6b9d3f0cb2cd893601f“
-"embed": true“
-},
-{
-"name": ”M. Deportes 1080“
-"image": “”
-"url": "acestream://”f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9“
-"embed": true“
-},
-{
-"name": ”M. Deportes 720“
-"image": “”
-"url": "acestream://”M.L. Campeones 5 SD“
-"embed": true“
-},
-{
-"name": ”M. Deportes 21080“
-"image": “”
-"url": "acestream://”a2e878fbab5dff0e2cda01e74a88c7b32eb67913“
-"embed": true“
-},
-{
-"name": ”M. Deportes 3 1080“
-"image": “”
-"url": "acestream://”Campeones8“
-"embed": true“
-},
-{
-"name": ”M. Deportes 4 1080“
-"image": “”
-"url": "acestream://”69c95dc47b35dde559a6ef025c1b91c89646a17f“
-"embed": true“
-},
-{
-"name": ”M. Deportes 5 1080“
-"image": “”
-"url": "acestream://”Campeones11“
-"embed": true“
-},
-{
-"name": ”M. Deportes 7 1080“
-"image": “”
-"url": "acestream://”33369549c635dabdb78b95c478c21fcc9e4ee854“
-"embed": true“
-},
-{
-"name": ”M. Deportes 8 SD“
-"image": “”
-"url": "acestream://”# Vamos 720“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 1080 MultiAudio“
-"image": “”
-"url": "acestream://”49acacbbbcf33be6e843958ceedc7da8dd4f1486“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 1080 “
-"image": “”
-"url": "acestream://”M. Deportes 21080“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 720“
-"image": “”
-"url": "acestream://”85bd65161dfd8c4033194da3c978c0450c9111db“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 2 1080“
-"image": “”
-"url": "acestream://”9b76d0739f87555ccd3f42fc8e548762a0b94c28“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 2 720“
-"image": “”
-"url": "acestream://”04b36c831975b5514b63d6aaa97962bc2a495dd3“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 3 1080“
-"image": “”
-"url": "acestream://”f2b785193cfa99c581287be39e2fb5a73827957b“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 3 720“
-"image": “”
-"url": "acestream://”f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 4 SD“
-"image": “”
-"url": "acestream://”8a9018cccaa36014ab0f050e5132d5ee264f7737“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 5 SD“
-"image": “”
-"url": "acestream://”662cceb5a2b23f2150172df24247fa220d8d95d4“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 6 SD“
-"image": “”
-"url": "acestream://”a2e878fbab5dff0e2cda01e74a88c7b32eb67913“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 7 SD“
-"image": “”
-"url": "acestream://”8ab70e161ad1d9a3ed76db91b84b2ae55e16103f“
-"embed": true“
-},
-{
-"name": ”Campeones8“
-"image": “”
-"url": "acestream://”fdd9e3660059051660dbd7857443c2b807f258d0“
-"embed": true“
-},
-{
-"name": ”Campeones9“
-"image": “”
-"url": "acestream://”69c95dc47b35dde559a6ef025c1b91c89646a17f“
-"embed": true“
-},
-{
-"name": ”Campeones10“
-"image": “”
-"url": "acestream://”df67afe5c5f5e82a3ae629d126727b006b65e676“
-"embed": true“
-},
-{
-"name": ”Campeones11“
-"image": “”
-"url": "acestream://”57e284a3c13100baeff7a88dc50949585c9f1277“
-"embed": true“
-},
-{
-"name": ”Campeones12“
-"image": “”“
-"url": "acestream://”33369549c635dabdb78b95c478c21fcc9e4ee854
-"embed": true“
-},
-{
-"name": ”# Vamos 1080“
-"image": “”
-"url": "acestream://”069431a1199eb2545a14c0a724095e57bdc58e9c“
-"embed": true“
-},
-{
-"name": ”# Vamos 720“
-"image": “”
-"url": "acestream://”0e18315b703248bb01eab6b9d3f0cb2cd893601f“
-"embed": true“
-},
-{
-"name": ”M. Deportes 1080“
-"image": “”
-"url": "acestream://”49acacbbbcf33be6e843958ceedc7da8dd4f1486“
-"embed": true“
-},
-{
-"name": ”M. Deportes 720“
-"image": “”
-"url": "acestream://”e5fa927d9a017f4523fdb62774a0aec457985bfa“
-"embed": true“
-},
-{
-"name": ”M. Deportes 21080“
-"image": “”
-"url": "acestream://”c47f756750190e4b2a9eefe8afdac48a2203b8d6“
-"embed": true“
-},
-{
-"name": ”M. Deportes 3 1080“
-"image": “”
-"url": "acestream://”85bd65161dfd8c4033194da3c978c0450c9111db“
-"embed": true“
-},
-{
-"name": ”M. Deportes 4 1080“
-"image": “”
-"url": "acestream://”0c8935087510ee1c5117243a6cc46f9d6d795faf“
-"embed": true“
-},
-{
-"name": ”M. Deportes 5 1080“
-"image": “”
-"url": "acestream://”478833f6390f04e95c6d94180a784b78ad540d2f“
-"embed": true“
-},
-{
-"name": ”M. Deportes 7 1080“
-"image": “”
-"url": "acestream://”5da3c25c14d111cb9c33cf6e0b45b7cab88fe741“
-"embed": true“
-},
-{
-"name": ”M. Deportes 8 SD“
-"image": “”
-"url": "acestream://”b779e6056975e3682a804d47cbd5cc806217f64d“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 1080 MultiAudio“
-"image": “”
-"url": "acestream://”aedf221240a0f8513d90b555bf1b6e5306ac1e76“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 1080 “
-"image": “”
-"url": "acestream://”539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b “
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 720“
-"image": “”
-"url": "acestream://”f8d89bf80b813631e6eb85fc8c185b00fe9ab88d“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 2 1080“
-"image": “”
-"url": "acestream://”9b76d0739f87555ccd3f42fc8e548762a0b94c28“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 2 720“
-"image": “”
-"url": "acestream://”04b36c831975b5514b63d6aaa97962bc2a495dd3“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 3 1080“
-"image": “”
-"url": "acestream://”f2b785193cfa99c581287be39e2fb5a73827957b“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 3 720“
-"image": “”
-"url": "acestream://”f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 4 SD“
-"image": “”
-"url": "acestream://”M.L. Campeones 7 SD“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 5 SD“
-"image": “”
-"url": "acestream://”662cceb5a2b23f2150172df24247fa220d8d95d4“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 6 SD“
-"image": “”
-"url": "acestream://”a2e878fbab5dff0e2cda01e74a88c7b32eb67913“
-"embed": true“
-},
-{
-"name": ”M.L. Campeones 7 SD“
-"image": “”
-"url": "acestream://”8ab70e161ad1d9a3ed76db91b84b2ae55e16103f“
-"embed": true“
-},
-{
-"name": ”Campeones8“
-"image": “”
-"url": "acestream://”fdd9e3660059051660dbd7857443c2b807f258d0“
-"embed": true“
-},
-{
-"name": ”Campeones9“
-"image": “”
-"url": "acestream://”69c95dc47b35dde559a6ef025c1b91c89646a17f“
-"embed": true“
-},
-{
-"name": ”Campeones10“
-"image": “”
-"url": "acestream://”df67afe5c5f5e82a3ae629d126727b006b65e676“
-"embed": true“
-},
-{
-"name": ”Campeones11“
-"image": “”
-"url": "acestream://”57e284a3c13100baeff7a88dc50949585c9f1277“
-"embed": true“
-},
-{
-"name": ”Campeones12“
-"image": “”
-"url": "acestream://”33369549c635dabdb78b95c478c21fcc9e4ee854“
-"embed": true“
-},
-{
-"name": ”“
-"image": “”
-"url": "acestream://”“
-"embed": true“
-},
-{
-"name": ”“
-"image": “”
-"url": "acestream://”“
-"embed": true“
-}]
-        },
-        {
-        "name": "smartbank",
-        "image": "https://assets.laliga.com/assets/logos/laliga-v-negativo/laliga-v-negativo-600x600.png",
-        "stations":[
-            
-            
-            {
-                "name": "acestream://c35d2207792128fc0ae49c40e885c463f664dbce",
-                "image": "https://assets.laliga.com/assets/logos/laliga-v-negativo/laliga-v-negativo-600x600.png",
-                "url": "acestream://c35d2207792128fc0ae49c40e885c463f664dbce",
-                "embed": true
-            },
-            {
-                "name": "HD 1 ENGLISH",
-                "image": "https://cdn.icon-icons.com/icons2/325/PNG/128/Number-1-icon_34782.png",
-                "url": "https://sportzonline.co/channels/hd/hd1.php",
-                "embed": true
-            },
-            {
-                "name": "HD 2 ENGLISH/DUTCH",
-                "image": "https://clipartart.com/images/icon-number-clipart-3.png",
-                "url": "https://sportzonline.co/channels/hd/hd2.php",
-                "embed": true
-            },
-            {
-                "name": "HD 3 GERMAN",
-                "image": "https://cdn.icon-icons.com/icons2/325/PNG/128/Number-3-icon_34780.png",
-                "url": "https://sportzonline.co/channels/hd/hd3.php",
-                "embed": true
-            },
-            {
-                "name": "HD 4 FRENCH",
-                "image": "https://cdn.icon-icons.com/icons2/325/PNG/128/Number-4-icon_34779.png",
-                "url": "https://sportzonline.co/channels/hd/hd4.php",
-                "embed": true
-            },
-            {
-                "name": "HD 5 ENGLISH",
-                "image": "https://cdn.icon-icons.com/icons2/325/PNG/128/Number-5-icon_34778.png",
-                "url": "https://sportzonline.co/channels/hd/hd5.php",
-                "embed": true
-            },
-            {
-                "name": "HD 6 SPANISH",
-                "image": "https://cdn.icon-icons.com/icons2/325/PNG/128/Number-6-icon_34777.png",
-                "url": "https://sportzonline.co/channels/hd/hd6.php",
-                "embed": true
-            },
-            {
-                "name": "HD 7 ITALIAN",
-                "image": "https://cdn.icon-icons.com/icons2/325/PNG/128/Number-7-icon_34776.png",
-                "url": "https://sportzonline.co/channels/hd/hd7.php",
-                "embed": true
-            },
-            {
-                "name": "HD 8 ENGLISH",
-                "image": "https://cdn.icon-icons.com/icons2/325/PNG/128/Number-8-icon_34775.png",
-                "url": "https://sportzonline.co/channels/hd/hd8.php",
-                "embed": true
-                
-            }]
-                
-        },
-        {
-        "name": "Fútbol Elite Gol",
-        "image": "",
-        "stations":[
-            
-            {
-                "name": "Programacion",
-                "image": "https://cdn.pixabay.com/photo/2019/01/01/14/55/calendar-3906791_960_720.jpg",
-                "url": "https://www.elitegoltv.global/programacion.php",
-                "embed": true
-                
-            },
-            {
-                "name": "Elite Gol 1",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/270px-ESPN_wordmark.svg.png",
-                "url": "https://www.elitegoltv.global/stream/canal-1.php",
-                "embed": true
-                
-            },
-            {
-                "name": "Elite Gol 2",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/263px-Espn2.svg.png",
-                "url": "https://www.elitegoltv.global/stream/canal-2.php",
-                "embed": true
-            },
-            
-            {
-                "name": "Elite Gol 3",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ESPN_3.png/270px-ESPN_3.png",
-                "url": "https://www.elitegoltv.global/stream/canal-3.php",
-                "embed": true
-                
-            },
-            
-            {
-                "name": "Elite Gol 4",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/225px-FOX_Sports_logo.svg.png",
-                "url": "https://www.elitegoltv.global/stream/canal-4.php",
-                "embed": true
-                
-            },
-            
-            {
-                "name": "Elite Gol 5",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/263px-2015_Fox_sports_logo.svg.png",
-                "url": "https://www.elitegoltv.global/stream/canal-5.php",
-                "embed": true
-                
-            },
-            
-            {
-                "name": "Elite Gol 6",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/263px-Fox_sports_3_logo.svg.png",
-                "url": "https://www.elitegoltv.global/stream/canal-6.php",
-                "embed": true
-                
-            },
-            
-            
-            {
-                "name": "Elite Gol 7",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fox_Sports_Premium_Argentina_2019.png/225px-Fox_Sports_Premium_Argentina_2019.png",
-                "url": "https://www.elitegoltv.global/stream/canal-7.php",
-                "embed": true
-                
-            },
-            
-            {
-                "name": "Elite Gol 8",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Logo_DirecTV_marzo_de_2018.jpg/368px-Logo_DirecTV_marzo_de_2018.jpg",
-                "url": "https://www.elitegoltv.global/stream/canal-8.php",
-                "embed": true
-                
-            },
-            
-            {
-                "name": "Elite Gol 9",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/263px-DirecTV_Sports_2_Latin_America_%282018%29.png",
-                "url": "https://www.elitegoltv.global/stream/canal-9.php",
-                "embed": true
-                
-            },
-            
-            {
-                "name": "Elite Gol 10",
-                "image": "https://pbs.twimg.com/profile_images/1104066764277719041/N7hnsxL__400x400.png",
-                "url": "https://www.elitegoltv.global/stream/canal-10.php",
-                "embed": true
-                
-            }]
-        },
-        
-        
-        {
-        "name": "Eventos Sportsbay",
-        "image": "https://holidaygolf.com/wp-content/uploads/2018/02/carrusel-logos-daily.png",
-        "stations":[
-            {
-                "name": "PROGRAMACIÓN",
-                "image": "https://cdn.pixabay.com/photo/2019/01/01/14/55/calendar-3906791_960_720.jpg",
-                "url": "https://sportsbay.me/free-live-streams",
-                "embed": true
-            },
-            {
-                "name": "Valencia Vs Barca opc1",
-                "image": "https://cdn.icon-icons.com/icons2/325/PNG/128/Number-1-icon_34782.png",
-                "url": "https://sportsbay.me/ver/chelsea-vs-real-madrid/en-vivo-espn-en-vivo-online.php",
-                "embed": true
-            },
-            {
-                "name": "Valencia Vs Barca opc2",
-                "image": "https://clipartart.com/images/icon-number-clipart-3.png",
-                "url": "https://sportsbay.me/ver/chelsea-vs-real-madrid/espn-2-en-vivo-por-internet.php",
-                "embed": true
-            },
-            {
-                "name": "Valencia Vs Barca opc3",
-                "image": "https://cdn.icon-icons.com/icons2/325/PNG/128/Number-3-icon_34780.png",
-                "url": "https://sportsbay.me/ver/chelsea-vs-real-madrid/bein-sports-en-vivo.php",
-                "embed": true
-            },
-            {
-                "name": "Valencia Vs Barca opc4",
-                "image": "https://cdn.icon-icons.com/icons2/325/PNG/128/Number-4-icon_34779.png",
-                "url": "https://sportsbay.me/ver/chelsea-vs-real-madrid/canal-plus-liga-en-vivo-por-internet.php",
-                "embed": true
-            },
-            {
-                "name": "Valencia Vs Barca opc5",
-                "image": "https://cdn.icon-icons.com/icons2/325/PNG/128/Number-5-icon_34778.png",
-                "url": "https://sportsbay.me/ver/chelsea-vs-real-madrid/canal-1.php",
-                "embed": true
-            },
-            {
-                "name": "CANAL 6",
-                "image": "https://cdn.icon-icons.com/icons2/325/PNG/128/Number-6-icon_34777.png",
-                "url": "https://dailysport.pw/c6.php",
-                "embed": true
-            },
-            {
-                "name": "CANAL 7",
-                "image": "https://cdn.icon-icons.com/icons2/325/PNG/128/Number-7-icon_34776.png",
-                "url": "https://dailysport.pw/c7.php",
-                "embed": true
-            },
-            {
-                "name": "CANAL 8",
-                "image": "https://cdn.icon-icons.com/icons2/325/PNG/128/Number-8-icon_34775.png",
-                "url": "https://dailysport.pw/c8.php",
-                "embed": true
-            },{
-                "name": "CANAL 9",
-                "image": "https://cdn.icon-icons.com/icons2/325/PNG/128/Number-9-icon_34774.png",
-                "url": "https://dailysport.pw/c9.php",
-                "embed": true
-            },{
-                "name": "CANAL 10",
-                "image": "http://zonafut.com/wp-content/uploads/2018/01/red-number-10-icon-24494.png",
-                "url": "https://dailysport.pw/c10.php",
-                "embed": true
-            },{
-                "name": "CANAL 11",
-                "image": "https://media.istockphoto.com/vectors/eleven-numeral-icon-vector-illustration-vector-id1001345040?b=1&k=6&m=1001345040&s=612x612&h=6ubhuraZtV6HGUUpOY6INCwABGhoPEKcGq5ZftO9r48=",
-                "url": "https://dailysport.pw/c11.php",
-                "embed": true
-            },{
-                "name": "CANAL 12",
-                "image": "https://i0.pngocean.com/files/251/769/82/number-computer-icons-clip-art-pictures-of-the-number-12.jpg",
-                "url": "https://dailysport.pw/c12.php",
-                "embed": true
-            },{
-                "name": "CANAL 13",
-                "image": "https://i0.pngocean.com/files/251/769/82/number-computer-icons-clip-art-pictures-of-the-number-12.jpg",
-                "url": "https://dailysport.pw/c13.php",
-                "embed": true
-            }]
-        },
-        {
-        "name": "Basket y tenis",
-        "image": "https://i.ytimg.com/vi/X-0zk-siZ7U/maxresdefault.jpg",
-        "stations":[
-            {
-                "name": "FULL BASKET",
-                "image": "https://fullbasket.es/wp-content/uploads/2017/07/app-fullbasket-300x300.png",
-                "url": "https://fullbasket.es/baloncesto-vivo-directo/",
-                "embed": true
-            },
-            
-            {
-                "name": "PIRATAS DEL BASKET TV",
-                "image": "https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/16299443_1597695443579253_6937629484298516843_n.jpg?_nc_cat=110&_nc_oc=AQnIDAQyGkYp1kLfYFy2KOIRK5NdXFwPBN5q8Wk626_Gzylde7dbFCInaWHHwOVROZY&_nc_ht=scontent-mad1-1.xx&oh=4f5e8cf272fcccb598cee018a2665bfc&oe=5E562D75",
-                "url": "https://piratasdelbasket.net/basket-tv-on-line/",
-                "embed": true
-                
-            },
-            
-            {
-                "name": "JOKER STREAM BASKET",
-                "image": "https://img.scoop.it/qRXDKGMQKH2D9IGt0egIPjl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9",
-                "url": "https://www.jokerlivestream.net/joker-basketball-live-streaming-2.html",
-                "embed": true
-            },
-            {
-                "name": "THE TENNIS CHANNEL",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/800px-Tennis_Channel_logo.svg.png",
-                "url": "https://e7.cdn4.us/ingest666/tennischannel.m3u8",
-                "embed": true
-                
-            }]
-        }]
-    
-}
+            "name": "TDT",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TDT_wordmark.svg/250px-TDT_wordmark.svg.png",
+            "info": "Sincroniza la lista antes o justo al inicio de los eventos para tener las últimas señales disponibles. Para los canales que se abren externamente ↗️, pulsar en el icono de Play ▶️ con un círculo en cuanto aparezca para abrir en el reproductor.",
+            "stations": [
+                {
+                    "name": "La 1 HD (sat)",
+                    "image": "https://levantateymueveficha.files.wordpress.com/2009/03/la1.jpg?w=420&h=326",
+                    "url": "http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:7863:41A:1:C00000:0:0:0:"
+                },
+                {
+                    "name": "La 1 (sat)",
+                    "image": "https://levantateymueveficha.files.wordpress.com/2009/03/la1.jpg?w=420&h=326",
+                    "url": "http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C2:40E:1:C00000:0:0:0:"
+                },                
+                {
+                    "name": "La 1 (opcion 2)",
+                    "image": "https://levantateymueveficha.files.wordpress.com/2009/03/la1.jpg?w=420&h=326",
+                    "url": "http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8"
+                },
+                {
+                    "name": "La 1 (opcion 3)",
+                    "image": "https://levantateymueveficha.files.wordpress.com/2009/03/la1.jpg?w=420&h=326",
+                    "url": "http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8"
+                },
+                {
+                    "name": "La 1 (Ali)",
+                    "image": "https://levantateymueveficha.files.wordpress.com/2009/03/la1.jpg?w=420&h=326",
+                    "url": "http://c2.gunsnrose.club:8880/by14m274/pYj33WN4EL/2555"
+                },
+                {
+                    "name": "La 2",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/l/a/2/la2.jpg",
+                    "url": "http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8"
+                },
+                {
+                    "name": "La 2 (Ali)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/l/a/2/la2.jpg",
+                    "url": "http://c2.gunsnrose.club:8880/by14m274/pYj33WN4EL/2554"
+                },
+                {
+                    "name": "La 2 (sat)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/l/a/2/la2.jpg",
+                    "url": "http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7474:3F0:1:C00000:0:0:0:"
+                },
+                {
+                    "name": "La 2 (opcion 3)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/l/a/2/la2.jpg",
+                    "url": "http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8"
+                },
+                {
+                    "name": "La 2 (opcion 4)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/l/a/2/la2.jpg",
+                    "url": "http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8"
+                },                
+                {
+                    "name": "Antena 3",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/a/n/t/antena-3.jpg",
+                    "url": "https://livestartover-i.akamaized.net/geoantena3/master.m3u8"
+                },
+                {
+                    "name": "Antena 3 (opcion 2)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/a/n/t/antena-3.jpg",
+                    "url": "https://livestartover-i.akamaized.net/antena3/master.m3u8"
+                },                
+                {
+                    "name": "Antena 3 (opcion 3)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/a/n/t/antena-3.jpg",
+                    "url": "https://livestartover.atresmedia.com/antena3/master.m3u8"
+                },
+                {
+                    "name": "Antena 3 (Ali SD)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/a/n/t/antena-3.jpg",
+                    "url": "http://c2.gunsnrose.club:8880/by14m274/pYj33WN4EL/29215"
+                },
+                {
+                    "name": "Antena 3 (Ali HD)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/a/n/t/antena-3.jpg",
+                    "url": "http://c2.gunsnrose.club:8880/by14m274/pYj33WN4EL/2599"
+                },
+                {
+                    "name": "Antena 3 (sat HD)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/a/n/t/antena-3.jpg",
+                    "url": "http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:7534:426:1:C00000:0:0:0:"
+                },                
+                {
+                    "name": "Antena 3 (sat)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/a/n/t/antena-3.jpg",
+                    "url": "http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772C:416:1:C00000:0:0:0:"
+                },                
+                {
+                    "name": "Cuatro HD (sat)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/c/u/a/cuatro.jpg",
+                    "url": "http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:7535:426:1:C00000:0:0:0:"
+                },
+                {
+                    "name": "Cuatro (sat)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/c/u/a/cuatro.jpg",
+                    "url": "http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7792:424:1:C00000:0:0:0:"
+                },
+                {
+                    "name": "Cuatro HD (Ali)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/c/u/a/cuatro.jpg",
+                    "url": "http://app-powerfhd.shurty.live/live/sup.php?z=997&u=g22y07l5854M92v&s=922585578993113&id=351&t=live&f=ts"
+                },
+                {
+                    "name": "Cuatro HD (opcion 2)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/c/u/a/cuatro.jpg",
+                    "url": "https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8"
+                },                
+                {
+                    "name": "Telecico HD",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/t/e/l/telecinco.jpg",
+                    "url": "https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8"
+                },
+                {
+                    "name": "Telecico HD (opcion 2)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/t/e/l/telecinco.jpg",
+                    "url": "https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8"
+                },                
+                {
+                    "name": "Telecico HD (Ali)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/t/e/l/telecinco.jpg",
+                    "url": "http://app-powerfhd.shurty.live/live/sup.php?z=997&u=g22y07l5854M92v&s=922585578993113&id=374&t=live&f=ts"
+                },
+                {
+                    "name": "Telecico HD (Ali 4)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/t/e/l/telecinco.jpg",
+                    "url": "http://c2.gunsnrose.club:8880/by14m274/pYj33WN4EL/2536"
+                },
+                {
+                    "name": "Telecico HD (Ali 5)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/t/e/l/telecinco.jpg",
+                    "url": "http://c2.gunsnrose.club:8880/by14m274/pYj33WN4EL/52411"
+                },
+                {
+                    "name": "Telecico (sat)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/t/e/l/telecinco.jpg",
+                    "url": "http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:778C:424:1:C00000:0:0:0:"
+                },
+                {
+                    "name": "Telecico HD (sat)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/t/e/l/telecinco.jpg",
+                    "url": "http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:7536:426:1:C00000:0:0:0:"
+                },                
+                {
+                    "name": "La Sexta",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/l/a/s/lasexta.jpg",
+                    "url": "https://livestartover-i.akamaized.net/geolasexta/master.m3u8"
+                },
+                {
+                    "name": "La Sexta (opcion 2)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/l/a/s/lasexta.jpg",
+                    "url": "https://livestartover-i.akamaized.net/lasexta/master.m3u8"
+                },
+                {
+                    "name": "La Sexta (sat HD)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/l/a/s/lasexta.jpg",
+                    "url": "http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:7537:426:1:C00000:0:0:0:"
+                },
+                {
+                    "name": "La Sexta (sat)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/l/a/s/lasexta.jpg",
+                    "url": "http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A6:41C:1:C00000:0:0:0:"
+                },
 
+                {
+                    "name": "La Sexta (Ali)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/l/a/s/lasexta.jpg",
+                    "url": "http://c2.gunsnrose.club:8880/by14m274/pYj33WN4EL/2552"
+                },
+                {
+                    "name": "La Sexta (Ali 2)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/l/a/s/lasexta.jpg",
+                    "url": "http://app-powerfhd.shurty.live/live/sup.php?z=997&u=g22y07l5854M92v&s=922585578993113&id=356&t=live&f=ts"
+                },
+                {
+                    "name": "Canal Sur",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/c/a/n/canalsur.jpg",
+                    "url": "https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8"
+                },
+                {
+                    "name": "Canal Sur (opcion 2)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/c/a/n/canalsur.jpg",
+                    "url": "http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8"
+                },
+                {
+                    "name": "Canal Sur (opcion 3)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/c/a/n/canalsur.jpg",
+                    "url": "https://www.youtube.com/embed/live_stream?channel=UCqwjtgaJflHga2aPWphG5PQ&rel=0&modestbranding",
+                    "embed": true
+                },
+                {
+                    "name": "Canal Sur (Ali)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/c/a/n/canalsur.jpg",
+                    "url": "http://c2.gunsnrose.club:8880/by14m274/pYj33WN4EL/52401"
+                },
+                {
+                    "name": "Canal Sur (Ali 2)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/c/a/n/canalsur.jpg",
+                    "url": "http://app-powerfhd.shurty.live/live/sup.php?z=997&u=g22y07l5854M92v&s=922585578993113&id=25851&t=live&f=ts"
+                },
+                
+                {
+                    "name": "Canal Sur (sat)",
+                    "image": "https://cdn.sincroguia.tv/uploads/images/c/a/n/canalsur.jpg",
+                    "url": "http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7729:416:1:C00000:0:0:0:"
+                }                
+            ]
+        }
+    ]
+}
