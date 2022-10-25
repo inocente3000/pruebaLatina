@@ -1,0 +1,16 @@
+{
+    "name": "ElSupremo-Sport",
+    "author": "Last Update: every 8 hours",
+    "image": "https://i.postimg.cc/CM7p0MJG/index.jpg",
+    "info": "Live Sport Events by ElSupremo",
+    "url": "https://raw.githubusercontent.com/inocente3000/pruebaLatina/main/prueba1.w3u",
+    "groups": [
+        {
+            "name": "WISE SPORT",
+            "image": "https://i.imgur.com/YAaMwxN.png",
+            "info": "Eventi Sportivi by ElSupremo",
+            "url": "https://raw.githubusercontent.com/inocente3000/pruebaLatina/main/actualizacion.w3u",
+            "userAgent":"ElSupremoWise"
+        }
+    ]
+}
