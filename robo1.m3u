@@ -1,0 +1,33 @@
+{
+  "name": "Me robo mi vida",
+  "author": "Pier",
+  "info": "Enlaces para ver GolPlay",
+"url": "https://raw.githubusercontent.com/inocente3000/pruebaLatina/main/robo1.m3u",
+"image": "https://static.abc.es/media/capitulos/000/221/771/episodio-515-1.jpg",
+  "stations": [
+               
+                {
+                    "name": "cap240",
+                    "image": "https://static.abc.es/media/capitulos/000/221/771/episodio-515-1.jpg",
+                    "url": "https://smartpeli.com/capitulo/me-robo-mi-vida-temporada-1-capitulo-240/",
+                    "isHost": true
+                },
+                
+                
+                {
+                    "name": " cap240",
+                    "image": "https://static.abc.es/media/capitulos/000/221/771/episodio-515-1.jpg",
+                    "url": "https://fastream.to/xfc2bip335pt?jwsource=cl",
+                    "isHost": true
+                },
+                
+                {
+                    "name": "cap240",
+                    "image": "https://static.abc.es/media/capitulos/000/221/771/episodio-515-1.jpg",
+                    "url": "https://photocall.tv/cq3t/",
+                    "isHost": true
+                }
+                
+              ]
+}
+
