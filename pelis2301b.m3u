@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1,blackout(pelismart)
+https://s15.fastream.to/hls2/02/00040/gu8tg8tuyl6c_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=3eC4AuLUgv6h0IBfQVOOZXYpUpcIJzuvSWOxcQ9Ypfg&s=1674482324&e=43200&f=202932&i=0.0&sp=0
+#EXTINF:-1,Something from Tiffany's
+https://s22.fastream.to/hls2/02/00043/uomem4owdbq8_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=ZReSu3MT13CFx2DSIN2W4uLgRlrE_1SE1d1LhffDBo0&s=1674497132&e=43200&f=217631&i=0.0&sp=0
+#EXTINF:-1,El comisario montalbano 1x02 La voz del violin
+https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/TE_SCOMMON/mp4/1/7/1656322548771.mp4/1656322548771-audio=194470-video=2758000.m3u8?idasset=6636027
+#EXTINF:-1,The Equalizer Temporada 1 Capitulo 1
+https://s16.fastream.to/hls2/02/00021/7afyxkgkrvd9_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=fl5mYaStlL272ngvBhB8DP61HujLt6CEET8ZKzOSfC0&s=1674496693&e=43200&f=108552&i=0.0&sp=0
+#EXTINF:-1,The Equalizer Temporada 1 Capitulo 2
+https://s17.fastream.to/hls2/04/00021/c845lssnaz0j_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=H8hnV23iY_VsrF_JukphCN1elLQU50iB9Vc_icqlH3g&s=1674496919&e=43200&f=108553&i=0.0&sp=0
