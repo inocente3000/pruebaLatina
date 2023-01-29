@@ -1,0 +1,24 @@
+#EXTM3U
+
+
+
+#EXTINF:-1,Wolf Hound
+http://192.168.1.45:8096/Items/7a9ebce7628b08bba0d1033d6ecedd1d/Download?api_key=70c5feea33174fef87e6c92061d4ece1
+#EXTINF:-1,Eraser
+http://192.168.1.45:8096/Items/83a7df6273180793c304cfa53314c849/Download?api_key=70c5feea33174fef87e6c92061d4ece1
+#EXTINF:-1,Dios mio, ¿pero que te hemos hecho?
+http://192.168.1.45:8096/Items/e9cb9aad211fa5db56c4974c44040a02/Download?api_key=70c5feea33174fef87e6c92061d4ece1
+#EXTINF:-1,El comisario montalbano 1x02 La voz del violin
+http://192.168.1.45:8096/Items/44fa0f6158dfb7e226371bbbe667de27/Download?api_key=70c5feea33174fef87e6c92061d4ece1
+#EXTINF:-1,Cobra Kai 3x05
+http://192.168.1.45:8096/Items/0b3aa5bbef09ec1d99bc5a820ee3e71f/Download?api_key=70c5feea33174fef87e6c92061d4ece1
+#EXTINF:-1,The Equalizer 1x05
+http://192.168.1.45:8096/Items/673c073516983dbe6d051c0a6849e7e3/Download?api_key=70c5feea33174fef87e6c92061d4ece1
+#EXTINF:-1,the rookie 4x08
+http://192.168.1.45:8096/Items/d8a309c452a48214c993ef809cf69e46/Download?api_key=70c5feea33174fef87e6c92061d4ece1
+#EXTINF:-1,psych 8x9
+http://192.168.1.45:8096/Items/4dde350d9218181e5195ad7baecec28e/Download?api_key=70c5feea33174fef87e6c92061d4ece1
+#EXTINF:-1,Crimen en el paraiso 4x07
+http://192.168.1.45:8096/Items/4d6c3f9c7b5dd3841492051a1bab017e/Download?api_key=70c5feea33174fef87e6c92061d4ece1
+#EXTINF:-1,La forense 4x05
+http://192.168.1.45:8096/Items/3a22ff43282321759f733d9f944fb88a/Download?api_key=70c5feea33174fef87e6c92061d4ece1
