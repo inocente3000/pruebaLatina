@@ -1,0 +1,33 @@
+{
+  "name": "librefutboltv",
+  "author": "berti",
+  "info": "Enlaces para ver futbol",
+"url": "https://w3ubin.com/3RjUWsN_k.w3u",
+"image": "https://getlogo.net/wp-content/uploads/2019/08/gol-television-logo-vector.png",
+  "stations": [
+               
+                {
+                    "name": "Gol",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gol_logo.png",
+                    "url": "https://librefutboltv.com/",
+                    "isHost": true
+                },
+                
+                
+                {
+                    "name": "Gol",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gol_logo.png",
+                    "url": "https://librefutboltv.com/embed/eventos/?r=aHR0cHM6Ly9lbWJlZC5saWJyZWZ1dGJvbHR2LmNvbS9tcGRrLmh0bWw/Z2V0PWFIUjBjSE02THk5a1kyVXRZV3N0YkdsMlpYZDNaR0Y2Ymk1aGEyRnRZV2w2WldRdWJtVjBMMlJoYzJoa2NtMHZaR0Y2Ymkxc2FXNWxZWEl0TURJeUwzTjBjbVZoYlM1dGNHUS9jRDEzWldJPSZrZXk9T0RKbU9HVXlZVEUzWkdGak5EUmpNR0V4T0dZMk5qQTBOemt6TkRsak5UayZrZXkyPU1XSXhORFJtTnpObE5tWmxabVU1TVdOa01EVm1PRFV3WlRKaU5UZzVaREE",
+                    "isHost": true
+                },
+                
+                {
+                    "name": "Gol",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gol_logo.png",
+                    "url": "https://librefutboltv.com/embed/eventos/?r=aHR0cHM6Ly9lbWJlZC5saWJyZWZ1dGJvbHR2LmNvbS9tcGRrLmh0bWw/Z2V0PWFIUjBjSE02THk5a1kyVXRZV3N0YkdsMlpYZDNaR0Y2Ymk1aGEyRnRZV2w2WldRdWJtVjBMMlJoYzJoa2NtMHZaR0Y2Ymkxc2FXNWxZWEl0TURJeUwzTjBjbVZoYlM1dGNHUS9jRDEzWldJPSZrZXk9T0RKbU9HVXlZVEUzWkdGak5EUmpNR0V4T0dZMk5qQTBOemt6TkRsak5UayZrZXkyPU1XSXhORFJtTnpObE5tWmxabVU1TVdOa01EVm1PRFV3WlRKaU5UZzVaREE/",
+                    "isHost": true
+                }
+                
+              ]
+}
+
