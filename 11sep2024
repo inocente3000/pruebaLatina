@@ -1,0 +1,457 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="Mundotoro Tv" tvg-logo="https://meteoalcorcon.es/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="DEPORTES",Mundotoro Tv
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1051
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="Mundotoro Tv HD" tvg-logo="https://meteoalcorcon.es/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="DEPORTES",Mundotoro Tv HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1052
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="Mundotoro Tv HD 1280x720" tvg-logo="" group-title="DEPORTES",Mundotoro Tv HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/185438
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN La Liga " tvg-logo="https://www.culemania.com/uploads/s1/19/90/35/60/dazn-la-liga-y-movistar-en-un-fotomontaje-culemania.jpeg" group-title="DEPORTES H265 SAT",DAZN La Liga 
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/192407
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD M" tvg-logo="https://satcesc.com/wp-content/uploads/2021/01/Dazn-Movistar.jpg" group-title="DEPORTES",DAZN 1 HD M
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1091
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD 1280X720" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/movistar-dazn-1-y-2.jpg" group-title="DEPORTES",DAZN 1 HD 1280X720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/199909
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD M" tvg-logo="https://satcesc.com/wp-content/uploads/2021/01/Dazn-Movistar.jpg" group-title="DEPORTES",DAZN 2 HD M
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/199850
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD 1280X720" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/movistar-dazn-1-y-2.jpg" group-title="DEPORTES",DAZN 2 HD 1280X720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/199910
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/01/dazn-3-4.jpg" group-title="DEPORTES",DAZN 3 HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/228288
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/02/movistar-dazn-dreamworks.jpg" group-title="DEPORTES",DAZN 4 HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/228290
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD1280x720" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/02/movistar-dazn-dreamworks.jpg" group-title="DEPORTES",DAZN 4 HD1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/228291
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 HD" tvg-logo="https://satcesc.com/wp-content/uploads/2020/01/DAZN-F1.jpg" group-title="DEPORTES",DAZN F1 HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/228292
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 HD1280x720" tvg-logo="https://satcesc.com/wp-content/uploads/2020/01/DAZN-F1.jpg" group-title="DEPORTES",DAZN F1 HD1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/228293
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png" group-title="TDT",LA 1
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/998
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="TDT",LA 1 HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/999
+#EXTINF:-1 tvg-id="LA 1" tvg-name="La 1 HD 1280x720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="TDT",La 1 HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9204
+#EXTINF:-1 tvg-id="LA 2" tvg-name=" La 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png" group-title="TDT", La 2 FHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9205
+#EXTINF:-1 tvg-id="Antena3" tvg-name="ANTENA 3" tvg-logo="https://img2.freepng.es/20180626/lhp/kisspng-antena-3-spain-atresmedia-corporacion-logo-televis-antena-5b31f8d23d7f57.0921906015300016182519.jpg" group-title="TDT",ANTENA 3
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/956
+#EXTINF:-1 tvg-id="Antena3" tvg-name="ANTENA 3 HD" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="TDT",ANTENA 3 HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/957
+#EXTINF:-1 tvg-id="Antena3" tvg-name="Antena 3 HD 1280X720" tvg-logo="https://cadenaser00.epimg.net/ser/imagenes/2017/05/02/television/1493731075_712962_1493731448_noticia_normal.jpg" group-title="TDT",Antena 3 HD 1280X720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9140
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="CUATRO" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="TDT",CUATRO
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/976
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="CUATRO HD" tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg" group-title="TDT",CUATRO HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/977
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro HD 1280X720" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_circular_500_-1_d4a5.png" group-title="TDT",Cuatro HD 1280X720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9146
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="TELECINCO" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="TDT",TELECINCO
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1047
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="TELECINCO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Telecinco_HDTV.png" group-title="TDT",TELECINCO HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1048
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco HD 1280X720" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="TDT",Telecinco HD 1280X720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9145
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="LA SEXTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/La_Sexta.svg/1200px-La_Sexta.svg.png" group-title="TDT",LA SEXTA
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1001
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="LA SEXTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="TDT",LA SEXTA HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1002
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="La Sexta 1280x720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="TDT",La Sexta 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9135
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 HORA HD" tvg-logo="https://img2.rtve.es/i/?w=1600&i=1569230319635.png" group-title="TDT",24 HORA HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/236659
+#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA HDD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png" group-title="TDT",NOVA HDD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1040
+#EXTINF:-1 tvg-id="Neox" tvg-name="NEOX HDD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1200px-Neox.svg.png" group-title="TDT",NEOX HDD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1035
+#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA HD 120X720" tvg-logo="https://fotografias.antena3.com/clipping/cmsimages01/2015/03/06/AB8DB790-3557-4F20-95C3-830A2A8A3970/58.jpg" group-title="TDT",NOVA HD 120X720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9142
+#EXTINF:-1 tvg-id="Neox" tvg-name="NEOX HD 1280X720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" group-title="TDT",NEOX HD 1280X720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9141
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="Factoría de Ficción HD 1280X720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg" group-title="TDT",Factoría de Ficción HD 1280X720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9148
+#EXTINF:-1 tvg-id="Energy" tvg-name="ENERGY" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_logo_500_-1_f132.png" group-title="TDT",ENERGY
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/984
+#EXTINF:-1 tvg-id="Energy" tvg-name="E. Energy HD 1280X720" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="TDT",E. Energy HD 1280X720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9151
+#EXTINF:-1 tvg-id="Divinity" tvg-name="DIVINITY" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="TDT",DIVINITY
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/983
+#EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity HD 1280X720" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="TDT",Divinity HD 1280X720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9147
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_logo_500_-1_758c.png" group-title="TDT",BE MAD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/960
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD HD 1280X720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Be_Mad_TV.svg" group-title="TDT",BE MAD HD 1280X720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9150
+#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA HD 1280X72O" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png" group-title="TDT",MEGA HD 1280X72O
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9143
+#EXTINF:-1 tvg-id="" tvg-name="AndaluciaTV" tvg-logo="" group-title="AUTONOMICAS",AndaluciaTV
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1059
+#EXTINF:-1 tvg-id="LA 1" tvg-name="CanalSurHD" tvg-logo="" group-title="AUTONOMICAS",CanalSurHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1060
+#EXTINF:-1 tvg-id="Canal Sur" tvg-name="CANAL SUR A." tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/a/n/xcanal-sur-andalucia.jpg.pagespeed.ic._nrw2O5uwx.jpg" group-title="AUTONOMICAS",CANAL SUR A.
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/966
+#EXTINF:-1 tvg-id="Canal Sur" tvg-name="Canal Sur FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logo_de_Canal_Sur_1.png" group-title="TDT",Canal Sur FHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1061
+#EXTINF:-1 tvg-id="" tvg-name="ETB1" tvg-logo="" group-title="AUTONOMICAS",ETB1
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/8629
+#EXTINF:-1 tvg-id="" tvg-name="ETB2" tvg-logo="" group-title="AUTONOMICAS",ETB2
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/8630
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB Basque HD" tvg-logo="" group-title="AUTONOMICAS",ES: ETB Basque HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/8631
+#EXTINF:-1 tvg-id="LA 1" tvg-name="CanalSurHD 1280x720" tvg-logo="" group-title="AUTONOMICAS",CanalSurHD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9136
+#EXTINF:-1 tvg-id="Originales" tvg-name="ORIGINALES" tvg-logo="https://i.blogs.es/37b45d/original-movistar-y-canal-0/1366_521.jpg" group-title="CINE",ORIGINALES
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/954
+#EXTINF:-1 tvg-id="Originales" tvg-name="ORIGINALES HD" tvg-logo="https://i.blogs.es/37b45d/original-movistar-y-canal-0/1366_521.jpg" group-title="CINE",ORIGINALES HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/955
+#EXTINF:-1 tvg-id="Originales" tvg-name="ORIGINALES HD 1280x720" tvg-logo="https://i.blogs.es/37b45d/original-movistar-y-canal-0/1366_521.jpg" group-title="CINE",ORIGINALES HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9203
+#EXTINF:-1 tvg-id="Acción" tvg-name="M. acción" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-accion.jpg" group-title="CINE",M. acción
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1004
+#EXTINF:-1 tvg-id="Acción" tvg-name="Movistar Accion HD 1280x720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Movistar_accion.png" group-title="CINE",Movistar Accion HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9217
+#EXTINF:-1 tvg-id="LA 1" tvg-name="M. CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="CINE",M. CINE
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1014
+#EXTINF:-1 tvg-id="Cine" tvg-name="M.CINE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Movistar_Estrenos.svg" group-title="CINE",M.CINE HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1025
+#EXTINF:-1 tvg-id="Cine" tvg-name="M CINE HD 1280x720" tvg-logo="https://satcesc.com/wp-content/uploads/2020/05/Movistar-Estrenos.jpg" group-title="CINE",M CINE HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9221
+#EXTINF:-1 tvg-id="Comedia" tvg-name="M. COMEDIA" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.9ier939PE-.jpg" group-title="CINE",M. COMEDIA
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1006
+#EXTINF:-1 tvg-id="Comedia" tvg-name="M.COMEDIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="CINE",M.COMEDIA HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1022
+#EXTINF:-1 tvg-id="Comedia" tvg-name="Movistar Comedia HD 1280x720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Movistar_comedia.png" group-title="CINE",Movistar Comedia HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9219
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="HOLLYWOOD" tvg-logo="https://canalhollywood.es/wp-content/themes/canalhollywood/img/logo-canalhollywood.png" group-title="CINE",HOLLYWOOD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/995
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="HOLLYWOODHD" tvg-logo="https://canalhollywood.es/wp-content/uploads/2016/01/Canal-Hollywood-logo.jpg" group-title="CINE",HOLLYWOODHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/996
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood HD 1280x720" tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/d2a1bb00/69eb4fca_med.png" group-title="CINE",Hollywood HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9216
+#EXTINF:-1 tvg-id="Cine Español" tvg-name="M.Cine Español FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-cine-espanol.jpg.pagespeed.ic.yHmmANMZEU.jpg" group-title="CINE",M.Cine Español FHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1111
+#EXTINF:-1 tvg-id="Drama" tvg-name="M. DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Movistar_Drama.svg" group-title="CINE",M. DRAMA
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1012
+#EXTINF:-1 tvg-id="Drama" tvg-name="M. DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="CINE",M. DRAMA HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1013
+#EXTINF:-1 tvg-id="Drama" tvg-name=" Movistar Drama HD 1280x720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png" group-title="CINE", Movistar Drama HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9220
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://3.bp.blogspot.com/-Cm39C-T9pb4/Vk0uQdI34jI/AAAAAAAAALc/R7CdKsFddig/s1600/tcmc.png" group-title="CINE",TCM
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1045
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM" tvg-logo="https://www.elpublicista.es/adjuntos/fichero_8490_20130626.jpg" group-title="CINE",XTRM
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1108
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK FHD" tvg-logo="https://darktv.es/wp-content/uploads/2017/06/DarkEnOrange.jpg" group-title="CINE",DARK FHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1110
+#EXTINF:-1 tvg-id="Somos" tvg-name="Somos FHD" tvg-logo="https://tvalcolea.com/wp-content/uploads/2018/03/Somos.png" group-title="CINE",Somos FHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1126
+#EXTINF:-1 tvg-id="Calle 13" tvg-name="CALLE 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png" group-title="SERIES",CALLE 13
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/961
+#EXTINF:-1 tvg-id="Calle 13" tvg-name="CALLE 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png" group-title="SERIES",CALLE 13 HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/962
+#EXTINF:-1 tvg-id="Calle 13" tvg-name="Calle 13 HD 1280x720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png" group-title="SERIES",Calle 13 HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9209
+#EXTINF:-1 tvg-id="Fox" tvg-name="STAR CHANNEL" tvg-logo="https://sire-media-foxes.fichub.com/fox_es/custompage-main/677712.640x360.png" group-title="SERIES",STAR CHANNEL
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/989
+#EXTINF:-1 tvg-id="Fox" tvg-name="STAR CHANNEL HD" tvg-logo="https://sire-media-foxes.fichub.com/fox_es/custompage-main/677712.640x360.png" group-title="SERIES",STAR CHANNEL HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/990
+#EXTINF:-1 tvg-id="Fox" tvg-name="STAR CHANNEL 1280x720" tvg-logo="https://sire-media-foxes.fichub.com/fox_es/custompage-main/677712.640x360.png" group-title="SERIES",STAR CHANNEL 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9212
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner tv SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="SERIES",Warner tv SD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1049
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner tv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="SERIES",Warner tv HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1050
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner tv HD 1280x720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="SERIES",Warner tv HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9225
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://www.amctv.es/wp-content/themes/amc-global/images/amc/placeholder_16x9.jpg" group-title="SERIES",AMC
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/148606
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://www.pngkey.com/png/detail/243-2431424_amc-hd-amc-tv.png" group-title="SERIES",AMC HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1053
+#EXTINF:-1 tvg-id="AMC" tvg-name=" AMC HD 1280x720" tvg-logo="https://www.pngkey.com/png/detail/243-2431424_amc-hd-amc-tv.png" group-title="SERIES", AMC HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9206
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://i.pinimg.com/originals/6d/e3/76/6de376e60b89fc51d54df4ff2803a76e.png" group-title="SERIES",AXN HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1054
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD 1280x720" tvg-logo="https://i.pinimg.com/originals/6d/e3/76/6de376e60b89fc51d54df4ff2803a76e.png" group-title="SERIES",AXN HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9207
+#EXTINF:-1 tvg-id="LA 1" tvg-name="AXN MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="SERIES",AXN MOVIE
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1055
+#EXTINF:-1 tvg-id="AXN Movies" tvg-name="AXN MOVIE HD 1280x720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png" group-title="SERIES",AXN MOVIE HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9208
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://www.teahub.io/photos/full/218-2185988_syfy-syfy-tv-logo.jpg" group-title="SERIES",SYFY
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1043
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Syfy-HD-Logo.svg/1280px-Syfy-HD-Logo.svg.png" group-title="SERIES",SYFY HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/196718
+#EXTINF:-1 tvg-id="SYFY" tvg-name=" SyFy HD 1280x720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Syfy-HD-Logo.svg/1280px-Syfy-HD-Logo.svg.png" group-title="SERIES", SyFy HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9224
+#EXTINF:-1 tvg-id="Series" tvg-name="M. SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Movistar_Series.svg" group-title="SERIES",M. SERIES
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1019
+#EXTINF:-1 tvg-id="Series" tvg-name="M. SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Movistar_Series.svg" group-title="SERIES",M. SERIES HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1020
+#EXTINF:-1 tvg-id="Series" tvg-name="Movistar Series HD 1280x720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1280px-Movistar_Series.svg.png" group-title="SERIES",Movistar Series HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9222
+#EXTINF:-1 tvg-id="uspense" tvg-name="M. SUSPENSE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Suspense_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="SERIES",M. SUSPENSE 
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1021
+#EXTINF:-1 tvg-id="uspense" tvg-name="M. SUSPENSE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Suspense_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="SERIES",M. SUSPENSE HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1030
+#EXTINF:-1 tvg-id="uspense" tvg-name=" M. SUSPENSE HD 1280x720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Suspense_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="SERIES", M. SUSPENSE HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9223
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="Atreseries HD 1280X720" tvg-logo="https://www.thematv.com/medias/channels/atres-series/LOGOTIPO_A3S_POSITIVO_CMYK.png" group-title="TDT",Atreseries HD 1280X720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9144
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL" tvg-logo="https://www.pngitem.com/pimgs/m/29-295784_comedy-central-hd-png-download.png" group-title="SERIES",COMEDY CENTRAL
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/971
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central HD 1280x720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Comedy_central_hd.png" group-title="SERIES",Comedy Central HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9210
+#EXTINF:-1 tvg-id="Sundance" tvg-name="SUNDANCE TV" tvg-logo="https://cdn.mitvstatic.com/channels/cl_sundance-channel_m.png" group-title="TDT",SUNDANCE TV
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1042
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDYCENTRALHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Comedy_central_hd.png" group-title="SERIES",COMEDYCENTRALHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/972
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: Iberalia TV" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="DOCUMENTALES",ES: Iberalia TV
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9226
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES | Iberalia FHD" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="DOCUMENTALES",ES | Iberalia FHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/22930
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA TV" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="DOCUMENTALES",IBERALIA TV
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/997
+#EXTINF:-1 tvg-id="" tvg-name="Iberalia 100% Caza" tvg-logo="https://tvalcolea.com/wp-content/uploads/2018/03/iberalia.jpg" group-title="DOCUMENTALES",Iberalia 100% Caza
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/144602
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="Iberalia 100% Pesca" tvg-logo="https://tvalcolea.com/wp-content/uploads/2018/03/iberalia.jpg" group-title="DOCUMENTALES",Iberalia 100% Pesca
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/144603
+#EXTINF:-1 tvg-id="Caza y Pesca" tvg-name="CAZA Y PESCA" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/z/caza-pesca.jpg" group-title="DOCUMENTALES",CAZA Y PESCA
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/967
+#EXTINF:-1 tvg-id="Caza y Pesca" tvg-name="CAZAyPESCA HD" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/z/caza-pesca.jpg" group-title="DOCUMENTALES",CAZAyPESCA HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/968
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="CANAL COCINA" tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="DOCUMENTALES",CANAL COCINA
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/963
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="CANAL COCINA FHD" tvg-logo="https://canalcocina.es/themes/theme2015-nuevo-menu/images/svg/huevo.svg" group-title="DOCUMENTALES",CANAL COCINA FHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1113
+#EXTINF:-1 tvg-id="Odisea" tvg-name="CANAL ODISEA" tvg-logo="https://i.blogs.es/d18e49/logocanalodisea/450_1000.jpg" group-title="DOCUMENTALES",CANAL ODISEA
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/964
+#EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea FHD" tvg-logo="https://i.blogs.es/d18e49/logocanalodisea/450_1000.jpg" group-title="DOCUMENTALES",Odisea FHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1116
+#EXTINF:-1 tvg-id="COSMO" tvg-name="COSMO" tvg-logo="https://www.vhv.rs/dpng/d/151-1514977_logo-cosmos-cosmos-hd-png-download.png" group-title="SERIES",COSMO
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/973
+#EXTINF:-1 tvg-id="COSMO" tvg-name="COSMO HD" tvg-logo="https://www.vhv.rs/dpng/d/151-1514977_logo-cosmos-cosmos-hd-png-download.png" group-title="SERIES",COSMO HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/974
+#EXTINF:-1 tvg-id="COSMO" tvg-name="COSMO HD 1280x720" tvg-logo="https://www.vhv.rs/dpng/d/151-1514977_logo-cosmos-cosmos-hd-png-download.png" group-title="SERIES",COSMO HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9211
+#EXTINF:-1 tvg-id="Historia" tvg-name="HISTORIA" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/08/canal_historia_logo.jpg" group-title="DOCUMENTALES",HISTORIA
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/994
+#EXTINF:-1 tvg-id="Historia" tvg-name="Historia FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1024px-History_HD_Logo.svg.png" group-title="DOCUMENTALES",Historia FHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1118
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="NAT GEOGRAPH" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png" group-title="DOCUMENTALES",NAT GEOGRAPH
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1034
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="NAT GEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="DOCUMENTALES",NAT GEO HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1032
+#EXTINF:-1 tvg-id="National Geographic" tvg-name=" National Geographic FHD" tvg-logo="https://img2.freepng.es/20180623/jss/kisspng-national-geographic-abu-dhabi-television-channel-n-national-geographic-logo-5b2de2aea09b15.5733081815297338066579.jpg" group-title="DOCUMENTALES", National Geographic FHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/22428
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1280px-National_Geographic_Wild_logo.svg.png" group-title="DOCUMENTALES",NAT GEO WILD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1033
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="NG WILD HD" tvg-logo="" group-title="DOCUMENTALES",NG WILD HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1036
+#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1280px-2019_Discovery_logo.svg.png" group-title="DOCUMENTALES",DISCOVERY
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/978
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Casi_Discovery_HD.png" group-title="DOCUMENTALES",Discovery Channel FHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1117
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CH." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INFANTILES",DISNEY CH.
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/980
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png" group-title="INFANTILES",DISNEY CH HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/979
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo.png" group-title="INFANTILES",DISNEY JR
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/981
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEONHD" tvg-logo="https://e7.pngegg.com/pngimages/957/25/png-clipart-nickelodeon-high-definition-television-nick-jr-television-channel-others-television-text.png" group-title="INFANTILES",NICKELODEONHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1039
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="INFANTILES",BABY TV
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/959
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1024px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES",NICK JR
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1037
+#EXTINF:-1 tvg-id="Clan TVE" tvg-name="CLAN HD" tvg-logo="" group-title="INFANTILES",CLAN HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/196622
+#EXTINF:-1 tvg-id="Clan TVE" tvg-name="CLAN  TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="INFANTILES",CLAN  TVE
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/969
+#EXTINF:-1 tvg-id="Boing" tvg-name="Boing HD 1280X720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1200px-Boing.svg.png" group-title="INFANTILES",Boing HD 1280X720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9149
+#EXTINF:-1 tvg-id="LALIGA TV" tvg-name="M. LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="DEPORTES",M. LaLiga
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1017
+#EXTINF:-1 tvg-id="LALIGA TV" tvg-name="M. LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="DEPORTES",M. LaLiga HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1018
+#EXTINF:-1 tvg-id="LALIGA TV" tvg-name="M. LaLiga HD 1280x720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="DEPORTES",M. LaLiga HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/23949
+#EXTINF:-1 tvg-id="LALIGA TV" tvg-name="Liga de campeones 2" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="DEPORTES",Liga de campeones 2
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/207388
+#EXTINF:-1 tvg-id="LALIGA TV" tvg-name="LA LIGA TV BAR HD ligade campeones 2" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="DEPORTES",LA LIGA TV BAR HD ligade campeones 2
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1003
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="LALIGATV BAR HD1280x720 ligadecampeones 2" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="DEPORTES",LALIGATV BAR HD1280x720 ligadecampeones 2
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1062
+#EXTINF:-1 tvg-id="Liga de Campeones" tvg-name="M.LCAMPEONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="DEPORTES",M.LCAMPEONES
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1028
+#EXTINF:-1 tvg-id="Liga de Campeones" tvg-name="M.LCAMPEONES HD" tvg-logo="https://i.imgur.com/TeE8tty.png" group-title="DEPORTES",M.LCAMPEONES HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1029
+#EXTINF:-1 tvg-id="Liga de Campeones" tvg-name="M.LCAMPEONES HD 1280x720" tvg-logo="https://i.imgur.com/TeE8tty.png" group-title="DEPORTES",M.LCAMPEONES HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9188
+#EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-name="LA LIGA 2 HD 1280x720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="DEPORTES",LA LIGA 2 HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9045
+#EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-name="LA LIGA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="DEPORTES",LA LIGA 2 HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1172
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="DEPORTES",LA LIGA 3 HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1174
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 3" tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/293-m-ligadecampeones3.png" group-title="DEPORTES",M. LaLiga 3
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/63229
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 4" tvg-logo="https://sport-tv-guide.live/images/stations/a1838.png" group-title="DEPORTES",M. LaLiga 4
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/52832
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 5" tvg-logo="https://sport-tv-guide.live/images/stations/a1839.png" group-title="DEPORTES",M. LaLiga 5
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/52833
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 6" tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/287-m-laliga-7.png" group-title="DEPORTES",M. LaLiga 6
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/52835
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 8" tvg-logo="" group-title="DEPORTES",M. LaLiga 8
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/52836
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 9" tvg-logo="" group-title="DEPORTES",M. LaLiga 9
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/52837
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 10" tvg-logo="" group-title="DEPORTES",M. LaLiga 10
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/52838
+#EXTINF:-1 tvg-id="" tvg-name=" L.CAMPEONES 3 HD" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="DEPORTES", L.CAMPEONES 3 HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1176
+#EXTINF:-1 tvg-id="Liga de Campeones 3" tvg-name=" Champions Tour - Liga de campeones 3 HD 1280x720" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="DEPORTES", Champions Tour - Liga de campeones 3 HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/179267
+#EXTINF:-1 tvg-id="Liga de Campeones 2" tvg-name="L.CAMPEONES 2" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="DEPORTES",L.CAMPEONES 2
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1177
+#EXTINF:-1 tvg-id="Liga de Campeones 2" tvg-name="L.CAMPEONES 2 HD" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="DEPORTES",L.CAMPEONES 2 HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1178
+#EXTINF:-1 tvg-id="Liga de Campeones 3" tvg-name=" Liga de Campeones 3" tvg-logo="https://album.mediaset.es/eimg/2019/12/12/CLTis7DRu8Q15DItG6OxE5.jpg" group-title="DEPORTES", Liga de Campeones 3
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/148607
+#EXTINF:-1 tvg-id="Liga de Campeones 5" tvg-name="Liga de Campeones 5" tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" group-title="DEPORTES",Liga de Campeones 5
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/148611
+#EXTINF:-1 tvg-id="Liga de Campeones 6" tvg-name="Liga de Campeones 6" tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" group-title="DEPORTES",Liga de Campeones 6
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/148612
+#EXTINF:-1 tvg-id="Liga de Campeones 7" tvg-name="Liga de Campeones 7" tvg-logo="https://album.mediaset.es/eimg/2019/12/12/SCSp4hy2MkLuF8UDh4F2p4.jpg" group-title="DEPORTES",Liga de Campeones 7
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/148613
+#EXTINF:-1 tvg-id="Liga de Campeones 8" tvg-name="Liga de Campeones 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyYmfnXGNkn5EXPyzHYIHFx-o50vG9hLKu_g&usqp=CAU" group-title="DEPORTES",Liga de Campeones 8
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/148614
+#EXTINF:-1 tvg-id="Vamos" tvg-name="VAMOS HD" tvg-logo="https://satcesc.com/wp-content/uploads/2018/08/Vamos.png" group-title="DEPORTES",VAMOS HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1180
+#EXTINF:-1 tvg-id="Vamos" tvg-name="VAMOS HD 1280x720" tvg-logo="https://satcesc.com/wp-content/uploads/2018/08/Vamos.png" group-title="DEPORTES",VAMOS HD 1280x720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9048
+#EXTINF:-1 tvg-id="Deportes" tvg-name="M. DEPORTES" tvg-logo="https://pbs.twimg.com/profile_images/1202687006591115264/wawCok5G_400x400.jpg" group-title="DEPORTES",M. DEPORTES
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1008
+#EXTINF:-1 tvg-id="Deportes" tvg-name="M. DEPORTESHD" tvg-logo="https://pbs.twimg.com/profile_images/1202687006591115264/wawCok5G_400x400.jpg" group-title="DEPORTES",M. DEPORTESHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1010
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORTS 1 HD" tvg-logo="https://banner2.cleanpng.com/20180622/gto/kisspng-eurosport-1-high-definition-television-television-5b2cbfa6baacc7.8238924215296593027646.jpg" group-title="EUROSPORTS Juegos Olimpicos",EUROSPORTS 1 HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/987
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/06/30/1626644-34530687-2560-1440.jpg" group-title="EUROSPORTS Juegos Olimpicos",EUROSPORT 2
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/986
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Eurosport2_hd.png" group-title="EUROSPORTS Juegos Olimpicos",Eurosport 2 HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9214
+#EXTINF:-1 tvg-id="LA 1" tvg-name="GOL" tvg-logo="" group-title="DEPORTES",GOL
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/993
+#EXTINF:-1 tvg-id="LA 1" tvg-name="M. GOLF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="DEPORTES",M. GOLF
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1015
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL PLAY FHD" tvg-logo="https://contactonews.co/storage/images/thumb-large-default.png" group-title="DEPORTES",GOL PLAY FHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/8627
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="tdp HD" tvg-logo="" group-title="DEPORTES",tdp HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/196613
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="tdp" tvg-logo="" group-title="DEPORTES",tdp
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/196614
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 4 EVENTOS" tvg-logo="" group-title="DEPORTES DAZN",Dazn 4 EVENTOS
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/196035
+#EXTINF:-1 tvg-id="" tvg-name="Footters- 1" tvg-logo="https://footters.com/wp-content/uploads/2019/08/logo-footters-724x180-1.png" group-title="Footters",Footters- 1
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1095
+#EXTINF:-1 tvg-id="" tvg-name="Footters-2" tvg-logo="https://footters.com/wp-content/uploads/2019/08/logo-footters-724x180-1.png" group-title="Footters",Footters-2
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1096
+#EXTINF:-1 tvg-id="" tvg-name="Footters-3" tvg-logo="https://footters.com/wp-content/uploads/2019/08/logo-footters-724x180-1.png" group-title="Footters",Footters-3
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1097
+#EXTINF:-1 tvg-id="" tvg-name="FOOTES 4" tvg-logo="https://footters.com/wp-content/uploads/2019/08/logo-footters-724x180-1.png" group-title="Footters",FOOTES 4
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1098
+#EXTINF:-1 tvg-id="" tvg-name="Footters-5" tvg-logo="https://footters.com/wp-content/uploads/2019/08/logo-footters-724x180-1.png" group-title="Footters",Footters-5
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1099
+#EXTINF:-1 tvg-id="" tvg-name="Footters-6-8" tvg-logo="https://footters.com/wp-content/uploads/2019/08/logo-footters-724x180-1.png" group-title="Footters",Footters-6-8
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1100
+#EXTINF:-1 tvg-id="" tvg-name="Footters-7-8" tvg-logo="https://footters.com/wp-content/uploads/2019/08/logo-footters-724x180-1.png" group-title="Footters",Footters-7-8
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1102
+#EXTINF:-1 tvg-id="" tvg-name="Footters-8-9" tvg-logo="https://footters.com/wp-content/uploads/2019/08/logo-footters-724x180-1.png" group-title="Footters",Footters-8-9
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1103
+#EXTINF:-1 tvg-id="" tvg-name="Footters-9-10" tvg-logo="https://footters.com/wp-content/uploads/2019/08/logo-footters-724x180-1.png" group-title="Footters",Footters-9-10
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1104
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 1 EVENTO" tvg-logo="" group-title="DEPORTES DAZN",Dazn 1 EVENTO
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1106
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV ESPAÑA" tvg-logo="" group-title="MUSICA",MTV ESPAÑA
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1031
+#EXTINF:-1 tvg-id="13 TV" tvg-name="TRECE" tvg-logo="https://www.brandemia.org/sites/default/files/inline/images/trece_logo_antes.jpg" group-title="TDT",TRECE
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1074
+#EXTINF:-1 tvg-id="LA 1" tvg-name="Blaze FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blaze_-_2016_logo.svg/1200px-Blaze_-_2016_logo.svg.png" group-title="DOCUMENTALES",Blaze FHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1115
+#EXTINF:-1 tvg-id="" tvg-name="Cazavisión" tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png" group-title="DOCUMENTALES",Cazavisión
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1125
+#EXTINF:-1 tvg-id="" tvg-name="BOM" tvg-logo="" group-title="AUTONOMICAS",BOM
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1164
+#EXTINF:-1 tvg-id="LA 1" tvg-name="GOL TV HDD" tvg-logo="" group-title="DEPORTES",GOL TV HDD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1168
+#EXTINF:-1 tvg-id="Deportes" tvg-name="M. DEPORTESHD 1280 X720" tvg-logo="https://static.mercadonegro.pe/wp-content/uploads/2017/05/23010023/movistar-deportes.png" group-title="DEPORTES",M. DEPORTESHD 1280 X720
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/40897
+#EXTINF:-1 tvg-id="" tvg-name="TV3 " tvg-logo="" group-title="AUTONOMICAS",TV3 
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1185
+#EXTINF:-1 tvg-id="" tvg-name="3/24" tvg-logo="" group-title="AUTONOMICAS",3/24
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1186
+#EXTINF:-1 tvg-id="ETB 3" tvg-name="E3 Sports 3" tvg-logo="https://statics.ccma.cat/multimedia/jpg/6/9/1521552830896.jpg" group-title="TDT",E3 Sports 3
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/1188
+#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="CANAL DECASA" tvg-logo="" group-title="DOCUMENTALES",CANAL DECASA
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/8608
+#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="Decasa FHD" tvg-logo="" group-title="DOCUMENTALES",Decasa FHD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/22929
+#EXTINF:-1 tvg-id="" tvg-name="Canal Málaga" tvg-logo="" group-title="AUTONOMICAS",Canal Málaga
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9154
+#EXTINF:-1 tvg-id="" tvg-name="Canal Extremadura TV" tvg-logo="" group-title="AUTONOMICAS",Canal Extremadura TV
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9157
+#EXTINF:-1 tvg-id="" tvg-name="Castilla y León TV" tvg-logo="" group-title="AUTONOMICAS",Castilla y León TV
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9160
+#EXTINF:-1 tvg-id="" tvg-name="LaOtra" tvg-logo="" group-title="AUTONOMICAS",LaOtra
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9162
+#EXTINF:-1 tvg-id="" tvg-name="TeleRibera" tvg-logo="" group-title="LOCALES",TeleRibera
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9177
+#EXTINF:-1 tvg-id="" tvg-name="Elche 7TV" tvg-logo="" group-title="LOCALES",Elche 7TV
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9180
+#EXTINF:-1 tvg-id="" tvg-name="Canal 33 Madrid" tvg-logo="" group-title="LOCALES",Canal 33 Madrid
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9183
+#EXTINF:-1 tvg-id="" tvg-name="Canal Parlamento" tvg-logo="" group-title="AUTONOMICAS",Canal Parlamento
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9187
+#EXTINF:-1 tvg-id="" tvg-name=" TV GALICIA" tvg-logo="" group-title="AUTONOMICAS", TV GALICIA
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/9901
+#EXTINF:-1 tvg-id="" tvg-name="TV Canarias" tvg-logo="" group-title="AUTONOMICAS",TV Canarias
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/10847
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="El Toro Televisión Valencia en DIRECTO" tvg-logo="" group-title="TDT",El Toro Televisión Valencia en DIRECTO
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/58425
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="R. MADRID TV" tvg-logo="https://www.24segundosenblanco.es/wp-content/uploads/2017/04/realmadridtv-800x445.jpg" group-title="DEPORTES",R. MADRID TV
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/61641
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="data:image/png;base64,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" group-title="DOCUMENTALES",DMAX
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/67630
+#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/1280px-DKiss.svg.png" group-title="DOCUMENTALES",DKISS
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/68918
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE" tvg-logo="" group-title="DEPORTES",MULTIDEPORTE
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/69750
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="teledeporte hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/640px-Tve_teledeporte.png" group-title="DEPORTES",teledeporte hd
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/75147
+#EXTINF:-1 tvg-id="" tvg-name="US: FIGHT BOX HD" tvg-logo="" group-title="DEPORTES",US: FIGHT BOX HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/26722
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png" group-title="TDT",MEGA HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/84821
+#EXTINF:-1 tvg-id="Deportes 2" tvg-name="M. DEPORTES 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png" group-title="DEPORTES",M. DEPORTES 2 HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/224636
+#EXTINF:-1 tvg-id="" tvg-name="RETRO MUSIC HD" tvg-logo="" group-title="MUSICA",RETRO MUSIC HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/144659
+#EXTINF:-1 tvg-id="Ten" tvg-name="TEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png" group-title="TDT",TEN
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/179144
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="MEZZO LIVE HD" tvg-logo="" group-title="MUSICA",MEZZO LIVE HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/184348
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS 1" tvg-logo="" group-title="TDT",TELENOVELAS 1
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/190570
+#EXTINF:-1 tvg-id="" tvg-name="COMBATES MMA" tvg-logo="" group-title="DEPORTES",COMBATES MMA
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/199581
+#EXTINF:-1 tvg-id="" tvg-name="Axarquía tv" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/04/axarqu%C3%ADa-tv-en-directo.png" group-title="LOCALES",Axarquía tv
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/210603
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="http://www.nasa.gov/sites/default/files/files/tv_share.jpg" group-title="DOCUMENTALES",NASA TV
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/218441
+#EXTINF:-1 tvg-id="" tvg-name="Aragon TV" tvg-logo="https://iteleflix.com/archivos/Logo-Aragon-TV.png" group-title="AUTONOMICAS",Aragon TV
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/223642
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="DreamWorks HD" tvg-logo="https://tentulogo.com/wp-content/uploads/cabecera-post-dreamworks-fb.jpg" group-title="INFANTILES",DreamWorks HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/230187
+#EXTINF:-1 tvg-id="" tvg-name="BETIS TV EN DIRECTO" tvg-logo="https://satcesc.com/wp-content/uploads/2020/09/Betis-TV.jpg" group-title="DEPORTES",BETIS TV EN DIRECTO
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/270056
+#EXTINF:-1 tvg-id="Movistar Plus+" tvg-name="M. PLUS HD" tvg-logo="https://w7.pngwing.com/pngs/659/399/png-transparent-movistar-plus-hd-logo.png" group-title="CINE",M. PLUS HD
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/271356
+#EXTINF:-1 tvg-id="" tvg-name="TV en Directo | CMM - Castilla-La Mancha Media" tvg-logo="" group-title="AUTONOMICAS",TV en Directo | CMM - Castilla-La Mancha Media
+http://azt.mine.nu:8000/CompaSantiTerraza/hOB9hsNKu1/272096
