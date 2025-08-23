@@ -2,10 +2,9 @@
 
 
 #EXTINF:-1, racing 1
-acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
+
 
 #EXTINF:-1, racing 2
-acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
 
 #EXTINF:-1, barcelona 3
 acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
@@ -20,12 +19,16 @@ acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
 acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
 
 #EXTINF:-1, barcelona 7
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 
 #EXTINF:-1, barcelona 8
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
 #EXTINF:-1, barcelona 9
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 
 #EXTINF:-1, barcelona 10
+acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD) DAZN LALIGA
 http://vdns2.top:8080/VIP0182170393258444/61703932584597/243
