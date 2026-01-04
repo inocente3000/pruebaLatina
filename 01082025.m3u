@@ -42,6 +42,9 @@ acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 #EXTINF:-1, Madrid 29 Stream
 #EXTINF:-1, Madrid 30 Stream
 
+#EXTINF:-1,ES: ACB Barcelona
+https://directes-tv-es.3catdirectes.cat/live-content/oca1-hls/bitrate_3.m3u8
+
 #EXTINF:-1 tvg-id="TRECE" tvg-name="ES: TRECE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="ES | TOP CANALES VIP",ES: TRECE
 http://vipbxcass.top:8080/VIP0168175381627029/89vx3679r5y8/655
 #EXTINF:-1,ES: (HD) DAZN LALIGA
