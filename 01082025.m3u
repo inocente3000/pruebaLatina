@@ -62,8 +62,10 @@ acestream://c976c7b37964322752db562b4ad65515509c8d36
 
 
 
-#EXTINF:-1,ES: ACB Barcelona
-https://directes-tv-es.3catdirectes.cat/live-content/oca1-hls/bitrate_3.m3u8
+
+#EXTINF:-1, Barcelona ACB
+https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/bitrate_3.m3u8
+
 
 #EXTINF:-1 tvg-id="TRECE" tvg-name="ES: TRECE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="ES | TOP CANALES VIP",ES: TRECE
 http://vipbxcass.top:8080/VIP0168175381627029/89vx3679r5y8/655
