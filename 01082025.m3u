@@ -27,13 +27,9 @@ acestream://51b363b1c4d42724e05240ad068ad219df8042ec
 #EXTINF:-1, Ace Mov.Liga Barcelona 14 Stream
 acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 #EXTINF:-1, Ace Campeones 15 Stream
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1, Ace Campeones 16 Stream
-acestream://f3eea003e23f94dc2d527306de9dd386e3ebf4ba
 #EXTINF:-1, Ace Campeones 17 Stream
-acestream://63bf3905b332f74bfe11096ddb9dccde51b33f53
 #EXTINF:-1, Ace Campeones 18 Stream
-acestream://63bf3905b332f74bfe11096ddb9dccde51b33f53
 #EXTINF:-1, Ace Supercopa Mov.Plus 19 Stream
 #EXTINF:-1, Ace Supercopa Mov.Plus 20 Stream
 #EXTINF:-1, Ace Dazn Liga  21 Stream
@@ -51,13 +47,20 @@ acestream://c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1, Madrid 28 Stream
 #EXTINF:-1, Madrid 29 Stream
 #EXTINF:-1, Madrid 30 Stream
-#EXTINF:-1, Ace Supercopa 51
-#EXTINF:-1, Ace Supercopa 50
-#EXTINF:-1, Ace Supercopa 52
-#EXTINF:-1, Ace Supercopa 53
-#EXTINF:-1, Ace Supercopa 54
-#EXTINF:-1, Ace Supercopa 55
+#EXTINF:-1, Ace Campeones 51
+acestream://152169ce99e1fd27f2249c18384a121079cdef29
+#EXTINF:-1, Ace Campeones 50
+acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
+#EXTINF:-1, Ace Campeones 52
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1, Ace Campeones 53
+acestream://f3eea003e23f94dc2d527306de9dd386e3ebf4ba
+#EXTINF:-1, Ace Campeones 54
+acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
+#EXTINF:-1, Ace Campeones 55
+acestream://462b23742fa531168194ade7e668a50a539ba283
 #EXTINF:-1, Ace Supercopa 56
+acestream://ab7f9cc29ad09ee9575fed758ab317c818fdc491
 #EXTINF:-1, Ace Supercopa 57
 #EXTINF:-1, Ace Supercopa 58
 #EXTINF:-1, Ace Supercopa 59
