@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1, Hypermotion
+#EXTINF:-1, Ace Hypermotion
 acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
-#EXTINF:-1, Movistar Liga
+#EXTINF:-1, Ace Movistar Liga
 acestream://0febfb5cac3384f487d55c559bbfc877db2d0357
-#EXTINF:-1, DaznLiga
+#EXTINF:-1, Ace DaznLiga
 acestream://9c75f1d190c518cfe0f236415b8dccc1f676ef3b
-#EXTINF:-1, Campeones
+#EXTINF:-1, Ace Campeones
 acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 #EXTINF:-1, Ace Hypermotion Racing 1 
 acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
