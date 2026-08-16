@@ -1,102 +1,59 @@
 #EXTM3U
 
 #EXTINF:-1, Ace Hypermotion
-acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
 #EXTINF:-1, Ace Movistar Liga
-acestream://0febfb5cac3384f487d55c559bbfc877db2d0357
 #EXTINF:-1, Ace DaznLiga
-acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1, Ace Campeones
-acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 #EXTINF:-1, Ace Hypermotion Racing 1 
-acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
 #EXTINF:-1, Ace Hypermotion Racing 2 
-acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a
 #EXTINF:-1, Ace Hypermotion Racing 3 
-acestream://70f22be1286ef224b5e4e9451d9a42468152cda4
 #EXTINF:-1, Ace Hypermotion Racing 4 
-acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
 #EXTINF:-1, Ace hypermotion Racing 5 
-acestream://fc129b39c253b887563c3f0dce5fca7e699c3047
 #EXTINF:-1, Ace  Hyper2  6 
-acestream://a5b9d834ad92bfb80fe01bf89cc20bd68be199fb
 #EXTINF:-1, Ace Hyper2  7 
-acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
 #EXTINF:-1, Ace Racing Portugal 8 
 #EXTINF:-1, Ace Racing Ruso  9 
-acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 #EXTINF:-1, Ace Madri 10 
-acestream://0febfb5cac3384f487d55c559bbfc877db2d0357
+acestrea://167e3b44a520cd76d4372f6d30fe6d7ccd524175
 #EXTINF:-1, Ace Madri 11 
-acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
 #EXTINF:-1, Ace Madri 12 
-acestream://5c26bf5f96ccae8937c664d924a53166d410ac5d
 #EXTINF:-1, Ace Madri 13 
-acestream://f863873de9f7b2996dde19a0657dd89835af3007
 #EXTINF:-1, Ace Madri 14 
-acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
 #EXTINF:-1, Ace Madri 15 
-acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
 #EXTINF:-1, Ace Madri 16 
-acestream://af458073c3096293a4dea9f369d4f308e7125bd6
 #EXTINF:-1, Ace Madri 17 
-acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1, Ace Madri 18 
-acestream://b45cfe568e106a7df65c950805d6f123c989ce84
 #EXTINF:-1, Ace Madri Ruso 19 
-acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1, Ace Madri Portugal 20 
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1, Ace Barcelona 21 
-acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1, Ace Barcelona 22 
-acestream://19f28f60c908f987b1a03da078e63320d7bf29e8
 #EXTINF:-1, Ace Barcelona 23 
-acestream://b63fcadc2390455d8a328f6c16b8b0a9adec21a3
 #EXTINF:-1, Ace Barcelona 24 
-acestream://c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1, Ace Barcelona 25 
-acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1, Ace Barcelona 26 
 #EXTINF:-1, Ace Barcelona 27 
 #EXTINF:-1, Ace Barcelona 28 
 #EXTINF:-1, Ace Barcelona Portugal 29 
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1, Ace Barcelona Reino Unido 30 
-acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1, Ace MLiga 31 
-acestream://a70a1605f69c8379e04094df96922a42adfbb431
 #EXTINF:-1, Ace MLiga 32 
-acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1, Ace MLiga 33
-acestream://0febfb5cac3384f487d55c559bbfc877db2d0357
 #EXTINF:-1, Ace MLiga 34 
-acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
 #EXTINF:-1, Ace MLiga 35
 #EXTINF:-1, Ace MLiga 36
 #EXTINF:-1, Ace MLiga 37 
 #EXTINF:-1, Ace MLiga 38 
 #EXTINF:-1, Ace MLiga 39
 #EXTINF:-1, Ace DznLiga 40
-acestream://19f28f60c908f987b1a03da078e63320d7bf29e8
 #EXTINF:-1, Ace DznLiga 41
-acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae
 #EXTINF:-1, Ace DznLiga 42
-acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1, Ace DznLiga 43
-acestream://635b61c1f240449163260cd914d10d886a54fee3
 #EXTINF:-1, Ace DznLiga 44
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914 
 #EXTINF:-1, Ace DznLiga 45
-acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc
 #EXTINF:-1, Ace DznLiga 46
-acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889
 #EXTINF:-1, Ace DznLiga 47
-acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1, Ace DznLiga 48
-acestream://8a25653a2f774f4ae1062d38a30dcd714d304a3a
 #EXTINF:-1, Ace DznLiga 49
-acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1, Ace Copa Polaco 51
 #EXTINF:-1, Ace CopaPolaco 50
 #EXTINF:-1, Ace Copa Ruso 52
@@ -104,25 +61,15 @@ acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1, Ace Copa 54
 #EXTINF:-1, Ace Copa 55
 #EXTINF:-1, Ace Campeones 56
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
 #EXTINF:-1, Ace Campeones 57
-acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
 #EXTINF:-1, Ace Campeones 58
-acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b
 #EXTINF:-1, Ace Campeones 59
-acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4
 #EXTINF:-1, Ace Campeones 60
-acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
 #EXTINF:-1, Ace Campeones 61
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1, Baloncesto 62 ACB
-acestream://217e5f172d4c704c5eec739fed672a53521e8f98
 #EXTINF:-1, Baloncesto 63 ACB
-acestream://8faa686a99697b99261346e479ead172b1d9d5d2
 #EXTINF:-1, Baloncesto 64 ACB
-acestream://d7e6b6bb1666740a21099fe6ceb0178a14f58e0c
 #EXTINF:-1, Baloncesto 65 ACB
-acestream://119087e842ea8857124b9405b10bb6cfffd2900c
 
 
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="ES | DEPORTES",ES: EUROSPORT 1
